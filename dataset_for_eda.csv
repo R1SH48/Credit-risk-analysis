@@ -1,0 +1,1001 @@
+,Creditability,Account_Balance,Duration_of_Credit_monthly,Payment_Status_of_Previous_Credit,Purpose,Credit_Amount,Value_Savings_Stocks,Length_of_current_employment,Instalment_per_cent,Sex_Marital_Status,Guarantors,Duration_in_Current_address,Most_valuable_available_asset,Age_years,Concurrent_Credits,Type_of_apartment,No_of_Credits_at_this_Bank,Occupation,No_of_dependents,Telephone,Foreign_Worker
+0,1,No Account,18,Previous Credits Paid,Used Car,1049,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,21,None,Free,1,Skilled,3 or More,No,No
+1,1,No Account,9,Previous Credits Paid,Other,2799,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,36,None,Free,2 or 3,Skilled,Less than 3,No,No
+2,1,None,12,Paid Up,Retraining,841,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Single",None,Above 7,None,23,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+3,1,No Account,12,Previous Credits Paid,Other,2122,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,39,None,Free,2 or 3,Unskilled Permanent Resident,Less than 3,No,Yes
+4,1,No Account,12,Previous Credits Paid,Other,2171,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Car,38,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,Yes
+5,1,No Account,10,Previous Credits Paid,Other,2241,None,<1 Year,Above 35%,"Male, Married/Widowed",None,"[4, 7)",None,48,None,Free,2 or 3,Unskilled Permanent Resident,Less than 3,No,Yes
+6,1,No Account,8,Previous Credits Paid,Other,3398,None,"[4, 7)",Above 35%,"Male, Married/Widowed",None,Above 7,None,39,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,Yes
+7,1,No Account,6,Previous Credits Paid,Other,1361,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,Above 7,None,40,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,Yes
+8,1,200 DM or Above,18,Previous Credits Paid,Furniture,1098,None,Unemployed,Below 20%,"Male, Single",None,Above 7,Life Insurance,65,None,Rented,2 or 3,"Unemployed, unskilled",3 or More,No,No
+9,1,None,24,Paid Up,Furniture,3758,"[100, 500)",Unemployed,Above 35%,"Male, Single",None,Above 7,Real Estate,23,None,Free,1,"Unemployed, unskilled",3 or More,No,No
+10,1,No Account,11,Previous Credits Paid,Other,3905,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,36,None,Free,2 or 3,Skilled,Less than 3,No,No
+11,1,No Account,30,Previous Credits Paid,New Car,6187,Below 100 DM,"[4, 7)",Above 35%,Female,None,Above 7,Life Insurance,24,None,Free,2 or 3,Skilled,3 or More,No,No
+12,1,No Account,6,Previous Credits Paid,Furniture,1957,None,"[4, 7)",Above 35%,"Male, Single",None,Above 7,Life Insurance,31,None,Rented,1,Skilled,3 or More,No,No
+13,1,None,48,No Problem with Current Credits,Business,7582,Below 100 DM,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,31,None,Rented,1,Executive,3 or More,Yes,No
+14,1,No Account,18,Paid Up,Furniture,1936,Above 1000,"[4, 7)","(25%, 35%)",Female,None,Above 7,Life Insurance,23,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+15,1,No Account,6,Paid Up,Furniture,2647,"[100, 500)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",None,44,None,Free,1,Skilled,Less than 3,No,No
+16,1,No Account,11,Previous Credits Paid,Other,3939,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,40,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+17,1,None,18,Paid Up,Furniture,3213,"[100, 500)",<1 Year,Above 35%,Female,None,"[4, 7)",None,25,None,Free,1,Skilled,3 or More,No,No
+18,1,None,36,Previous Credits Paid,Furniture,2337,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,1,Skilled,3 or More,No,No
+19,1,200 DM or Above,11,Previous Credits Paid,Other,7228,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,Car,39,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+20,1,No Account,6,Previous Credits Paid,Other,3676,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",None,37,None,Free,4 or 5,Skilled,Less than 3,No,No
+21,1,None,12,Previous Credits Paid,Other,3124,None,<1 Year,Above 35%,"Male, Married/Widowed",None,"[4, 7)",None,49,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+22,0,None,36,Paid Up,Appliances,2384,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Real Estate,33,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+23,1,None,12,Previous Credits Paid,Radio/TV,1424,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,26,None,Rented,1,Skilled,3 or More,No,No
+24,1,No Account,6,Previous Credits Paid,Other,4716,Above 1000,<1 Year,Above 35%,"Male, Married/Widowed",None,"[4, 7)",None,44,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+25,1,None,11,No Problem with Current Credits,Furniture,4771,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,51,None,Rented,1,Skilled,3 or More,No,No
+26,1,No Account,12,Paid Up,Used Car,652,None,Above 7,Below 20%,"Male, Single",None,Above 7,Car,24,None,Free,1,Skilled,3 or More,No,No
+27,1,None,9,Previous Credits Paid,Furniture,1154,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,None,37,None,Rented,4 or 5,Unskilled Permanent Resident,3 or More,No,No
+28,1,200 DM or Above,15,Paid Up,Other,3556,Above 1000,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,29,None,Rented,1,Skilled,3 or More,No,No
+29,1,Below 200 DM,42,Previous Credits Paid,New Car,4796,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,56,None,Owned,1,Skilled,3 or More,No,No
+30,1,Below 200 DM,30,Previous Credits Paid,Furniture,3017,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,47,None,Rented,1,Skilled,3 or More,No,No
+31,1,200 DM or Above,36,Previous Credits Paid,Other,3535,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,37,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+32,1,200 DM or Above,36,Previous Credits Paid,Other,6614,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,34,None,Rented,2 or 3,Executive,3 or More,Yes,No
+33,1,200 DM or Above,24,Paid Up,Furniture,1376,"[100, 500)","[4, 7)",Below 20%,"Male, Single",None,<1 Year,Life Insurance,28,None,Rented,1,Skilled,3 or More,No,No
+34,1,No Account,15,Paid Up,Other,1721,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",None,36,None,Rented,1,Skilled,3 or More,No,No
+35,1,No Account,6,Previous Credits Paid,Other,860,None,Above 7,Above 35%,"Male, Single",None,Above 7,Real Estate,39,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+36,1,200 DM or Above,12,Previous Credits Paid,Other,1495,None,Above 7,Below 20%,"Male, Married/Widowed",None,<1 Year,None,38,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+37,1,200 DM or Above,12,Previous Credits Paid,Furniture,1934,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,26,None,Rented,2 or 3,Skilled,3 or More,No,No
+38,1,200 DM or Above,18,Paid Up,New Car,3378,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Car,31,None,Rented,1,Skilled,3 or More,Yes,No
+39,1,200 DM or Above,24,Previous Credits Paid,New Car,3868,None,Above 7,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,41,None,Free,2 or 3,Executive,3 or More,Yes,No
+40,1,200 DM or Above,12,Previous Credits Paid,Appliances,996,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,Above 7,None,23,None,Rented,2 or 3,Skilled,3 or More,No,No
+41,1,No Account,24,Paid Up,Business,1755,None,Above 7,Below 20%,"Male, Single",Guarantor,Above 7,None,58,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+42,1,200 DM or Above,18,Previous Credits Paid,Other,1028,None,"[1, 4)",Below 20%,"Male, Single",None,"[4, 7)",None,36,None,Rented,2 or 3,Skilled,3 or More,No,No
+43,1,None,24,Previous Credits Paid,Retraining,2825,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,34,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+44,1,None,18,Paid Up,Repair,1239,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,61,None,Owned,1,Skilled,3 or More,No,No
+45,0,No Account,18,Paid Up,Other,1216,None,<1 Year,Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,23,None,Free,1,Skilled,3 or More,Yes,No
+46,1,200 DM or Above,24,Paid Up,Retraining,1258,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,None,25,None,Rented,1,Skilled,3 or More,Yes,No
+47,0,200 DM or Above,18,Previous Credits Paid,Repair,1864,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",None,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+48,1,200 DM or Above,24,Paid Up,Other,1474,Below 100 DM,<1 Year,Below 20%,Female,None,"[4, 7)",None,33,None,Rented,1,Skilled,3 or More,Yes,No
+49,1,No Account,24,Previous Credits Paid,Retraining,1382,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,None,26,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+50,1,200 DM or Above,12,Paid Up,Other,640,None,"[1, 4)",Below 20%,"Male, Divorced",None,"[1, 4)",None,49,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+51,1,Below 200 DM,36,Paid Up,Furniture,3919,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,23,None,Rented,1,Skilled,3 or More,Yes,No
+52,1,200 DM or Above,9,Previous Credits Paid,Other,1224,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,None,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+53,1,200 DM or Above,12,Previous Credits Paid,Furniture,2331,Above 1000,Above 7,Above 35%,"Male, Married/Widowed",Co-applicant,Above 7,None,49,None,Rented,1,Skilled,3 or More,Yes,No
+54,1,200 DM or Above,24,Paid Up,New Car,6313,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,41,None,Rented,1,Executive,Less than 3,Yes,No
+55,1,No Account,12,Previous Credits Paid,Furniture,385,None,"[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",None,58,None,Rented,Above 6,Unskilled Permanent Resident,3 or More,Yes,No
+56,1,200 DM or Above,12,Previous Credits Paid,Furniture,1655,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,None,63,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+57,1,No Account,15,Paid Up,Furniture,1053,None,<1 Year,Below 20%,Female,None,"[1, 4)",None,27,None,Rented,1,Skilled,3 or More,No,Yes
+58,1,200 DM or Above,21,Paid Up,Furniture,3160,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,41,None,Rented,1,Skilled,3 or More,Yes,No
+59,1,200 DM or Above,36,Paid Up,Other,3079,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,1,Skilled,3 or More,No,No
+60,1,200 DM or Above,12,Previous Credits Paid,Other,1163,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,44,None,Rented,1,Skilled,3 or More,Yes,No
+61,1,200 DM or Above,24,Paid Up,New Car,2679,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Real Estate,29,None,Rented,1,Executive,3 or More,Yes,No
+62,1,200 DM or Above,48,Previous Credits Paid,Furniture,3578,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,<1 Year,None,47,None,Rented,1,Skilled,3 or More,Yes,No
+63,1,200 DM or Above,36,No Problem with Current Credits,Other,10875,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,45,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+64,1,No Account,12,No Problem with Current Credits,Other,1344,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,43,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+65,1,200 DM or Above,6,Previous Credits Paid,Furniture,1237,Below 100 DM,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,Car,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+66,1,200 DM or Above,12,Paid Up,Furniture,3077,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,52,None,Rented,1,Skilled,3 or More,Yes,No
+67,1,200 DM or Above,24,Paid Up,Furniture,2284,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,28,None,Rented,1,Skilled,3 or More,Yes,No
+68,1,None,12,Paid Up,Furniture,1567,None,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,Life Insurance,22,None,Rented,1,Skilled,3 or More,Yes,No
+69,1,200 DM or Above,24,No Problem with Current Credits,Other,2032,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,60,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+70,1,None,21,Previous Credits Paid,Used Car,2745,"[500, 1000)","[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,32,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+71,1,200 DM or Above,30,Paid Up,Furniture,1867,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,58,None,Rented,1,Skilled,3 or More,Yes,No
+72,1,200 DM or Above,36,Paid Up,Furniture,2299,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,39,None,Rented,1,Skilled,3 or More,No,No
+73,1,200 DM or Above,24,Paid Up,Used Car,929,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+74,1,Below 200 DM,12,Paid Up,Furniture,3399,Above 1000,Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,37,None,Rented,1,Executive,3 or More,No,No
+75,1,None,9,Paid Up,Used Car,2030,Above 1000,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Life Insurance,24,None,Rented,1,Skilled,3 or More,Yes,No
+76,1,200 DM or Above,21,Previous Credits Paid,New Car,3275,None,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Life Insurance,36,None,Rented,1,Executive,3 or More,Yes,No
+77,1,200 DM or Above,24,Previous Credits Paid,Other,1940,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,60,None,Rented,1,Skilled,3 or More,Yes,No
+78,1,No Account,21,Previous Credits Paid,Other,1602,None,Above 7,Below 20%,Female,None,"[4, 7)",Life Insurance,30,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+79,1,200 DM or Above,15,Paid Up,Furniture,1979,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,35,None,Rented,1,Skilled,3 or More,No,No
+80,1,200 DM or Above,24,Previous Credits Paid,Other,2022,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,37,None,Rented,1,Skilled,3 or More,Yes,No
+81,1,200 DM or Above,36,Previous Credits Paid,Furniture,3342,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,51,None,Rented,1,Skilled,3 or More,Yes,No
+82,1,None,18,Paid Up,Other,5866,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+83,1,Below 200 DM,15,Previous Credits Paid,New Car,2360,"[100, 500)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,36,None,Rented,1,Skilled,3 or More,Yes,No
+84,1,200 DM or Above,15,Previous Credits Paid,Used Car,1520,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,63,None,Rented,1,Skilled,3 or More,No,No
+85,1,No Account,12,Paid Up,Other,3651,"[500, 1000)","[1, 4)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",Car,31,None,Rented,1,Skilled,Less than 3,No,No
+86,1,200 DM or Above,24,Previous Credits Paid,New Car,2346,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,35,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+87,1,200 DM or Above,36,No Problem with Current Credits,Furniture,4454,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,None,34,None,Rented,2 or 3,Skilled,3 or More,No,No
+88,1,No Account,6,Previous Credits Paid,Other,666,"[500, 1000)","[4, 7)","[20%, 25%)","Male, Single",None,Above 7,None,39,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+89,1,None,24,No Problem with Current Credits,Other,1965,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,42,None,Free,2 or 3,Skilled,3 or More,Yes,No
+90,1,None,12,Previous Credits Paid,Other,1995,Below 100 DM,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,27,None,Rented,1,Skilled,3 or More,No,No
+91,1,None,30,Paid Up,Furniture,2991,Above 1000,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Life Insurance,25,None,Rented,1,Skilled,3 or More,No,No
+92,1,None,30,Delayed,Retraining,4221,None,"[1, 4)","(25%, 35%)","Male, Single",None,<1 Year,Life Insurance,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+93,1,No Account,9,Paid Up,Furniture,1364,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,None,59,None,Rented,1,Skilled,3 or More,No,No
+94,1,None,18,Previous Credits Paid,Used Car,6361,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Real Estate,41,None,Rented,1,Skilled,3 or More,Yes,No
+95,1,200 DM or Above,27,Previous Credits Paid,Used Car,4526,"[500, 1000)",<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,32,Dept. Store,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,Yes,No
+96,1,None,12,Previous Credits Paid,Furniture,3573,None,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,None,23,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+97,0,None,36,No Problem with Current Credits,Retraining,4455,None,"[1, 4)","(25%, 35%)","Male, Divorced",None,"[1, 4)",None,30,Dept. Store,Rented,2 or 3,Executive,3 or More,Yes,No
+98,1,No Account,9,Paid Up,Used Car,2136,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,25,None,Rented,1,Skilled,3 or More,No,No
+99,1,None,42,Previous Credits Paid,Retraining,5954,None,"[4, 7)","(25%, 35%)","Male, Single",None,<1 Year,None,41,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+100,1,200 DM or Above,24,Previous Credits Paid,Used Car,3777,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,40,None,Rented,1,Skilled,3 or More,Yes,No
+101,1,No Account,15,Paid Up,Retraining,806,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Car,22,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+102,1,None,24,No Problem with Current Credits,Retraining,4712,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,34,Other Banks,Rented,2 or 3,Executive,3 or More,Yes,No
+103,1,None,36,No Problem with Current Credits,Other,7432,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Car,54,None,Free,1,Skilled,3 or More,No,No
+104,1,200 DM or Above,24,Previous Credits Paid,Furniture,1851,None,"[4, 7)",Below 20%,Female,Guarantor,"[1, 4)",Life Insurance,33,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+105,1,200 DM or Above,24,Paid Up,Other,1393,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Guarantor,"[1, 4)",None,31,None,Rented,1,Skilled,3 or More,Yes,No
+106,1,200 DM or Above,12,Previous Credits Paid,Retraining,1412,None,"[1, 4)",Below 20%,"Male, Single",Guarantor,"[1, 4)",None,29,None,Rented,2 or 3,Executive,3 or More,Yes,No
+107,1,200 DM or Above,18,Paid Up,Furniture,1473,None,<1 Year,"[20%, 25%)",Female,None,Above 7,None,39,None,Rented,1,Skilled,3 or More,Yes,No
+108,1,200 DM or Above,24,Paid Up,Furniture,1533,None,<1 Year,Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,38,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+109,1,200 DM or Above,12,Previous Credits Paid,Repair,2012,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,61,None,Rented,1,Skilled,3 or More,No,No
+110,0,No Account,15,Paid Up,Other,3959,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",Car,29,None,Rented,1,Skilled,3 or More,Yes,No
+111,1,No Account,6,Paid Up,Used Car,428,None,Above 7,"(25%, 35%)","Male, Single",None,<1 Year,Car,49,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+112,1,None,12,Previous Credits Paid,Other,2366,"[100, 500)","[4, 7)","[20%, 25%)","Male, Divorced",None,"[4, 7)",Life Insurance,36,None,Rented,1,Executive,3 or More,Yes,No
+113,1,200 DM or Above,12,Paid Up,Used Car,763,None,"[1, 4)",Below 20%,"Male, Single",None,<1 Year,None,26,None,Rented,1,Skilled,3 or More,Yes,No
+114,1,None,21,Paid Up,Used Car,3976,Above 1000,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,35,None,Rented,1,Skilled,3 or More,Yes,No
+115,1,None,18,Paid Up,Other,6260,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",None,28,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+116,1,None,9,Previous Credits Paid,Used Car,1919,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,35,None,Free,1,Skilled,3 or More,Yes,No
+117,1,200 DM or Above,24,Paid Up,New Car,2603,"[500, 1000)","[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,28,None,Free,1,Skilled,3 or More,Yes,No
+118,1,200 DM or Above,9,Previous Credits Paid,Repair,936,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,52,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+119,1,200 DM or Above,24,Paid Up,Used Car,3062,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,32,None,Free,1,Skilled,3 or More,Yes,No
+120,1,None,36,Paid Up,Furniture,4795,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Real Estate,30,None,Rented,1,Executive,3 or More,Yes,No
+121,1,200 DM or Above,36,Previous Credits Paid,New Car,5842,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,35,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+122,1,None,6,Paid Up,Furniture,2063,None,<1 Year,Below 20%,Female,None,"[4, 7)",Life Insurance,30,None,Free,1,Executive,3 or More,Yes,No
+123,1,200 DM or Above,15,Previous Credits Paid,Furniture,1459,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,43,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+124,1,200 DM or Above,15,Paid Up,Furniture,1213,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,47,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+125,1,200 DM or Above,24,Previous Credits Paid,Furniture,5103,None,<1 Year,"[20%, 25%)",Female,None,"[4, 7)",Real Estate,47,None,Owned,4 or 5,Skilled,3 or More,Yes,No
+126,1,200 DM or Above,15,Paid Up,Radio/TV,874,Above 1000,<1 Year,Below 20%,"Male, Single",None,<1 Year,None,24,None,Rented,1,Skilled,3 or More,No,No
+127,1,200 DM or Above,6,Paid Up,Used Car,2978,"[100, 500)","[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,32,None,Rented,1,Skilled,3 or More,Yes,No
+128,1,200 DM or Above,18,Paid Up,Other,1820,None,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Car,30,None,Rented,1,Executive,3 or More,Yes,No
+129,1,200 DM or Above,24,Previous Credits Paid,Furniture,2872,Below 100 DM,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,None,36,None,Rented,1,Skilled,Less than 3,Yes,No
+130,1,Below 200 DM,24,Paid Up,Used Car,1925,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,26,None,Rented,1,Skilled,3 or More,No,No
+131,1,200 DM or Above,18,Paid Up,Used Car,2515,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,None,43,None,Rented,1,Skilled,3 or More,Yes,No
+132,1,Below 200 DM,6,Paid Up,Used Car,2116,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,41,None,Rented,1,Skilled,3 or More,Yes,No
+133,1,200 DM or Above,18,Paid Up,Furniture,1453,None,<1 Year,"[20%, 25%)","Male, Single",None,<1 Year,None,26,None,Rented,1,Skilled,3 or More,No,No
+134,1,200 DM or Above,10,Paid Up,Other,1364,None,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,64,None,Rented,1,Skilled,3 or More,Yes,No
+135,1,200 DM or Above,6,Paid Up,Used Car,1543,"[500, 1000)","[1, 4)",Below 20%,"Male, Divorced",None,"[1, 4)",None,33,None,Rented,1,Skilled,3 or More,No,No
+136,1,None,12,Paid Up,Other,1318,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,54,None,Rented,1,Skilled,3 or More,Yes,No
+137,1,No Account,24,Other Credits,Other,2325,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,32,Other Banks,Rented,1,Skilled,3 or More,No,No
+138,1,None,6,Previous Credits Paid,Vacation,932,Above 1000,"[4, 7)",Above 35%,"Male, Single",None,"[4, 7)",Car,39,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+139,1,Below 200 DM,24,Previous Credits Paid,Furniture,3148,Above 1000,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+140,1,200 DM or Above,36,Paid Up,Furniture,3835,Above 1000,Above 7,"(25%, 35%)","Male, Single",None,Above 7,None,45,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+141,1,200 DM or Above,9,Paid Up,Repair,3832,Above 1000,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,None,64,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+142,1,None,24,Paid Up,Furniture,5084,Above 1000,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Life Insurance,42,None,Rented,1,Skilled,3 or More,Yes,No
+143,1,200 DM or Above,9,Previous Credits Paid,Used Car,2406,None,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,31,None,Rented,1,Executive,3 or More,No,No
+144,1,200 DM or Above,36,Paid Up,Furniture,2394,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,25,None,Rented,1,Skilled,3 or More,No,No
+145,1,200 DM or Above,21,Paid Up,New Car,2476,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,46,None,Rented,1,Executive,3 or More,Yes,No
+146,1,No Account,24,Paid Up,New Car,2964,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,49,Other Banks,Owned,1,Skilled,Less than 3,Yes,No
+147,1,No Account,12,Paid Up,Used Car,1262,Above 1000,Above 7,"(25%, 35%)","Male, Divorced",None,Above 7,Car,49,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+148,1,200 DM or Above,12,Paid Up,Retraining,1542,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,36,None,Rented,1,Skilled,3 or More,Yes,No
+149,1,None,24,Previous Credits Paid,Furniture,1743,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,48,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+150,1,Below 200 DM,12,Other Credits,Furniture,409,"[500, 1000)","[1, 4)","[20%, 25%)","Male, Single",None,"[4, 7)",None,42,None,Free,2 or 3,Skilled,3 or More,No,No
+151,1,200 DM or Above,12,Paid Up,Furniture,2171,None,<1 Year,"(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,29,Other Banks,Rented,1,Skilled,3 or More,No,No
+152,1,200 DM or Above,48,Previous Credits Paid,New Car,8858,Above 1000,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Real Estate,35,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+153,1,None,24,Paid Up,Other,3512,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,38,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+154,1,None,12,Paid Up,Furniture,1158,"[100, 500)","[1, 4)","[20%, 25%)","Male, Divorced",None,<1 Year,Life Insurance,26,None,Rented,1,Skilled,3 or More,Yes,No
+155,1,200 DM or Above,24,Previous Credits Paid,Furniture,2684,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,35,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+156,1,No Account,12,Paid Up,Furniture,1498,None,"[1, 4)",Below 20%,"Male, Single",None,<1 Year,Life Insurance,23,Other Banks,Rented,1,Skilled,3 or More,No,No
+157,1,200 DM or Above,30,Previous Credits Paid,Furniture,5954,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",Co-applicant,"[1, 4)",Life Insurance,38,None,Rented,1,Skilled,3 or More,No,No
+158,0,None,48,Other Credits,Retraining,6416,None,Above 7,Below 20%,"Male, Single",None,"[4, 7)",Real Estate,59,None,Free,1,Skilled,3 or More,No,No
+159,1,None,12,Previous Credits Paid,Used Car,3617,None,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Life Insurance,28,None,Free,4 or 5,Skilled,3 or More,Yes,No
+160,1,200 DM or Above,12,Previous Credits Paid,Furniture,1291,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Car,35,None,Rented,2 or 3,Skilled,3 or More,No,No
+161,1,Below 200 DM,24,Previous Credits Paid,Retraining,1275,"[500, 1000)","[1, 4)","(25%, 35%)","Male, Divorced",None,Above 7,None,36,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+162,1,200 DM or Above,24,Paid Up,Used Car,3972,None,"[4, 7)","(25%, 35%)","Male, Single",None,Above 7,Car,25,None,Free,1,Skilled,3 or More,Yes,No
+163,1,200 DM or Above,15,Previous Credits Paid,Used Car,3343,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,28,None,Owned,1,Skilled,3 or More,Yes,No
+164,1,Below 200 DM,15,Paid Up,Repair,392,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,23,None,Free,1,Skilled,3 or More,Yes,No
+165,1,200 DM or Above,9,Previous Credits Paid,Other,2134,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,48,None,Rented,4 or 5,Skilled,3 or More,Yes,No
+166,1,200 DM or Above,30,Previous Credits Paid,Furniture,5771,None,"[4, 7)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+167,1,200 DM or Above,24,Previous Credits Paid,Retraining,4526,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,74,None,Rented,1,Executive,3 or More,Yes,No
+168,1,200 DM or Above,15,Previous Credits Paid,Used Car,2788,None,"[4, 7)","(25%, 35%)","Male, Single",Co-applicant,"[4, 7)",Life Insurance,24,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+169,1,200 DM or Above,6,Previous Credits Paid,Furniture,1382,None,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,Life Insurance,28,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+170,1,Below 200 DM,36,Paid Up,Furniture,5848,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+171,0,No Account,12,Paid Up,Other,1228,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",None,24,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+172,1,Below 200 DM,12,Paid Up,Furniture,1297,None,"[1, 4)","[20%, 25%)",Female,None,Above 7,None,23,None,Free,1,Skilled,3 or More,No,No
+173,1,200 DM or Above,24,Paid Up,Furniture,1552,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,Life Insurance,32,Other Banks,Rented,1,Skilled,Less than 3,No,No
+174,1,200 DM or Above,12,Paid Up,Furniture,1963,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,None,Free,2 or 3,Executive,Less than 3,Yes,No
+175,1,200 DM or Above,24,Paid Up,Furniture,3235,"[100, 500)",Above 7,"[20%, 25%)","Male, Divorced",None,"[1, 4)",Life Insurance,36,None,Rented,1,Executive,3 or More,Yes,No
+176,1,200 DM or Above,24,Previous Credits Paid,Retraining,4139,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",Car,27,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+177,1,None,12,Previous Credits Paid,New Car,1804,Below 100 DM,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Car,44,None,Rented,1,Skilled,3 or More,No,No
+178,1,200 DM or Above,18,Paid Up,Retraining,1950,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,34,Dept. Store,Rented,2 or 3,Skilled,3 or More,Yes,No
+179,1,200 DM or Above,48,No Problem with Current Credits,Furniture,12749,"[100, 500)","[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,37,None,Rented,1,Executive,3 or More,Yes,No
+180,1,200 DM or Above,9,Paid Up,Radio/TV,1236,None,<1 Year,Above 35%,"Male, Single",None,Above 7,None,23,None,Free,1,Skilled,3 or More,Yes,No
+181,1,200 DM or Above,18,Previous Credits Paid,Other,1055,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Car,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+182,1,No Account,30,Delayed,Retraining,8072,Above 1000,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,25,Other Banks,Rented,4 or 5,Skilled,3 or More,No,No
+183,1,200 DM or Above,30,Previous Credits Paid,Furniture,2831,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,33,None,Rented,1,Skilled,3 or More,Yes,No
+184,1,200 DM or Above,9,Paid Up,Retraining,1449,None,"[4, 7)","[20%, 25%)","Male, Single",None,"[1, 4)",Life Insurance,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+185,1,200 DM or Above,36,Paid Up,Retraining,5742,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+186,1,200 DM or Above,12,Paid Up,Other,2390,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,50,None,Rented,1,Skilled,3 or More,Yes,No
+187,1,200 DM or Above,24,Paid Up,Furniture,3430,"[100, 500)",Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,None,Rented,1,Skilled,Less than 3,Yes,No
+188,1,None,36,Paid Up,Repair,2273,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,Life Insurance,32,None,Rented,2 or 3,Skilled,Less than 3,No,No
+189,1,Below 200 DM,21,Paid Up,Other,2923,Below 100 DM,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,Life Insurance,28,Other Banks,Rented,1,Executive,3 or More,Yes,No
+190,1,200 DM or Above,24,Paid Up,Furniture,1901,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,29,None,Free,1,Executive,3 or More,Yes,No
+191,1,None,36,Paid Up,Repair,3711,Above 1000,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Life Insurance,27,None,Rented,1,Skilled,3 or More,No,No
+192,1,None,48,Paid Up,Other,8487,Above 1000,"[4, 7)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+193,1,200 DM or Above,24,Paid Up,Other,2255,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Car,54,None,Rented,1,Skilled,3 or More,No,No
+194,1,200 DM or Above,12,Paid Up,Furniture,1262,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,25,None,Rented,1,Skilled,3 or More,No,No
+195,1,200 DM or Above,33,Previous Credits Paid,New Car,7253,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,35,None,Rented,2 or 3,Executive,3 or More,Yes,No
+196,1,200 DM or Above,6,Previous Credits Paid,Other,6761,None,"[4, 7)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,45,None,Rented,2 or 3,Executive,Less than 3,Yes,No
+197,1,200 DM or Above,18,Previous Credits Paid,Used Car,1817,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Real Estate,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+198,1,200 DM or Above,12,Paid Up,Furniture,2141,Below 100 DM,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,Real Estate,35,None,Rented,1,Skilled,3 or More,No,No
+199,1,200 DM or Above,48,Other Credits,Retraining,3609,None,"[1, 4)",Above 35%,"Male, Single",None,<1 Year,None,27,Dept. Store,Rented,1,Skilled,3 or More,No,No
+200,1,200 DM or Above,30,Paid Up,Furniture,2333,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,Other Banks,Rented,1,Executive,3 or More,No,No
+201,1,200 DM or Above,28,Other Credits,New Car,7824,Above 1000,<1 Year,"[20%, 25%)","Male, Married/Widowed",Guarantor,Above 7,None,40,Other Banks,Free,2 or 3,Skilled,Less than 3,Yes,No
+202,1,Below 200 DM,18,Other Credits,Furniture,1445,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,49,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+203,1,No Account,24,Paid Up,Used Car,7721,Above 1000,<1 Year,Above 35%,"Male, Single",None,"[1, 4)",Car,30,None,Rented,1,Skilled,3 or More,Yes,Yes
+204,1,No Account,21,Paid Up,Other,3763,Above 1000,"[4, 7)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[1, 4)",None,24,None,Rented,1,Unskilled Permanent Resident,3 or More,No,Yes
+205,1,None,18,Paid Up,Retraining,4439,None,Above 7,Above 35%,"Male, Married/Widowed",Co-applicant,<1 Year,None,33,Other Banks,Rented,1,Executive,3 or More,Yes,No
+206,1,No Account,12,Paid Up,Furniture,1107,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,20,None,Free,1,Executive,Less than 3,Yes,No
+207,1,None,15,Paid Up,Furniture,1444,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Car,23,None,Rented,1,Skilled,3 or More,No,No
+208,1,None,48,Other Credits,Other,12169,Above 1000,Unemployed,Below 20%,"Male, Married/Widowed",Co-applicant,Above 7,Real Estate,36,None,Owned,1,Executive,3 or More,Yes,No
+209,1,200 DM or Above,9,Paid Up,Furniture,2753,Below 100 DM,Above 7,"[20%, 25%)","Male, Married/Widowed",Co-applicant,Above 7,Life Insurance,35,None,Rented,1,Skilled,3 or More,Yes,No
+210,1,Below 200 DM,4,Paid Up,Other,1494,Above 1000,<1 Year,Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,29,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,Yes
+211,1,No Account,24,Other Credits,Used Car,2828,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,22,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+212,1,No Account,24,Other Credits,Used Car,2483,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,22,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+213,1,Below 200 DM,6,Previous Credits Paid,Other,1299,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,<1 Year,None,74,None,Rented,4 or 5,"Unemployed, unskilled",Less than 3,No,Yes
+214,1,None,9,Paid Up,Other,1549,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,35,None,Rented,1,"Unemployed, unskilled",3 or More,No,No
+215,1,Below 200 DM,10,Paid Up,Other,3949,None,<1 Year,Above 35%,"Male, Married/Widowed",Guarantor,<1 Year,Car,37,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+216,1,200 DM or Above,10,Paid Up,New Car,2901,Above 1000,<1 Year,Above 35%,"Male, Single",None,Above 7,None,31,None,Free,1,Skilled,3 or More,No,No
+217,1,Below 200 DM,6,Paid Up,Other,709,"[500, 1000)",<1 Year,"(25%, 35%)",Female,None,"[1, 4)",None,27,None,Rented,1,"Unemployed, unskilled",3 or More,No,Yes
+218,1,No Account,47,Paid Up,Other,10722,None,<1 Year,Above 35%,"Male, Single",None,<1 Year,None,35,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+219,1,200 DM or Above,10,Paid Up,Other,1287,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",Co-applicant,"[1, 4)",Car,45,None,Rented,1,Unskilled Permanent Resident,3 or More,No,Yes
+220,1,No Account,18,Other Credits,Furniture,1940,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",Co-applicant,Above 7,Real Estate,36,Other Banks,Owned,1,Executive,3 or More,Yes,No
+221,1,Below 200 DM,30,Previous Credits Paid,Furniture,3656,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,49,Dept. Store,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+222,1,200 DM or Above,24,No Problem with Current Credits,New Car,4679,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,35,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+223,1,200 DM or Above,27,No Problem with Current Credits,New Car,8613,"[500, 1000)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+224,1,No Account,18,Paid Up,Used Car,2659,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,28,None,Rented,1,Skilled,3 or More,No,No
+225,1,200 DM or Above,24,Previous Credits Paid,Furniture,1516,"[500, 1000)","[1, 4)",Below 20%,"Male, Single",None,<1 Year,None,43,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+226,1,No Account,18,Paid Up,Other,4380,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,35,None,Rented,1,Unskilled Permanent Resident,Less than 3,Yes,No
+227,1,200 DM or Above,14,No Problem with Current Credits,Other,802,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+228,1,200 DM or Above,21,Paid Up,Retraining,1572,"[500, 1000)",Above 7,Below 20%,"Male, Single",None,Above 7,None,36,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+229,1,None,48,Other Credits,Retraining,3566,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,1,Skilled,3 or More,No,No
+230,1,200 DM or Above,24,Paid Up,Furniture,1278,None,Above 7,Below 20%,"Male, Married/Widowed",None,<1 Year,None,36,None,Rented,1,Executive,3 or More,Yes,No
+231,1,200 DM or Above,6,Delayed,Furniture,426,None,Above 7,Below 20%,Female,None,Above 7,Life Insurance,39,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+232,1,200 DM or Above,39,Paid Up,New Car,8588,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,45,None,Rented,1,Executive,3 or More,Yes,No
+233,1,No Account,30,Paid Up,New Car,3857,None,"[1, 4)",Below 20%,"Male, Divorced",None,Above 7,Car,40,None,Rented,1,Executive,3 or More,Yes,No
+234,0,None,12,Paid Up,Other,685,None,"[4, 7)","(25%, 35%)",Female,None,"[4, 7)",Life Insurance,25,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+235,1,No Account,24,Paid Up,Furniture,1603,None,Above 7,Below 20%,"Male, Single",None,Above 7,Life Insurance,55,None,Rented,1,Skilled,3 or More,No,No
+236,1,200 DM or Above,21,Paid Up,Used Car,2241,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,50,None,Rented,2 or 3,Skilled,3 or More,No,No
+237,1,No Account,24,Paid Up,Furniture,2384,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,64,Other Banks,Free,1,Unskilled Permanent Resident,3 or More,No,No
+238,1,200 DM or Above,4,Paid Up,Used Car,601,None,<1 Year,Above 35%,"Male, Single",None,"[4, 7)",None,23,None,Free,1,Unskilled Permanent Resident,Less than 3,No,No
+239,1,200 DM or Above,39,Paid Up,New Car,2569,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+240,1,200 DM or Above,15,Previous Credits Paid,Furniture,1316,"[100, 500)","[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Car,47,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+241,1,200 DM or Above,60,Paid Up,Other,10366,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,42,None,Rented,1,Executive,3 or More,Yes,No
+242,1,200 DM or Above,18,Paid Up,Retraining,1568,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Single",None,Above 7,Car,24,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+243,1,200 DM or Above,18,Previous Credits Paid,Furniture,629,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,32,Other Banks,Rented,2 or 3,Executive,3 or More,Yes,No
+244,1,200 DM or Above,6,Other Credits,Furniture,1750,"[100, 500)",Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,45,Other Banks,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+245,1,200 DM or Above,24,Paid Up,New Car,3488,Below 100 DM,"[4, 7)","[20%, 25%)","Male, Single",None,Above 7,Life Insurance,23,None,Rented,1,Skilled,3 or More,No,No
+246,1,200 DM or Above,18,Previous Credits Paid,Furniture,1800,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,24,None,Rented,2 or 3,Skilled,3 or More,No,No
+247,1,200 DM or Above,24,No Problem with Current Credits,Used Car,4151,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,35,None,Rented,2 or 3,Skilled,3 or More,No,No
+248,1,None,15,Paid Up,Appliances,2631,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",None,25,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+249,1,200 DM or Above,21,Paid Up,New Car,5248,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,26,None,Rented,1,Skilled,3 or More,No,No
+250,1,None,18,No Problem with Current Credits,Other,2899,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,43,None,Rented,1,Skilled,Less than 3,No,No
+251,1,None,18,No Problem with Current Credits,Appliances,6204,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,None,44,None,Rented,1,Unskilled Permanent Resident,Less than 3,Yes,No
+252,1,200 DM or Above,12,Paid Up,Furniture,804,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,38,None,Rented,1,Skilled,3 or More,No,No
+253,1,200 DM or Above,36,Paid Up,Furniture,3595,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,28,None,Rented,1,Skilled,3 or More,No,No
+254,1,200 DM or Above,36,Previous Credits Paid,New Car,5711,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,38,None,Rented,2 or 3,Executive,3 or More,Yes,No
+255,1,Below 200 DM,15,Paid Up,Retraining,2687,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,26,None,Free,1,Skilled,3 or More,Yes,No
+256,1,No Account,15,No Problem with Current Credits,Used Car,3643,None,Above 7,Above 35%,"Male, Single",None,Above 7,Car,27,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+257,1,200 DM or Above,10,Previous Credits Paid,Used Car,2146,None,<1 Year,Above 35%,"Male, Single",None,"[4, 7)",None,23,None,Free,2 or 3,Skilled,3 or More,No,No
+258,1,No Account,10,Paid Up,Furniture,2315,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,None,52,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+259,1,200 DM or Above,5,Paid Up,Retraining,3448,None,"[4, 7)",Above 35%,"Male, Married/Widowed",None,Above 7,None,74,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+260,1,200 DM or Above,15,Paid Up,Used Car,2708,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,27,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+261,1,200 DM or Above,11,Previous Credits Paid,Other,1393,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Life Insurance,35,None,Rented,2 or 3,Executive,3 or More,No,No
+262,1,Below 200 DM,10,Paid Up,Used Car,1275,None,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Car,23,None,Rented,1,Skilled,3 or More,No,No
+263,1,200 DM or Above,9,Paid Up,Used Car,1313,None,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Life Insurance,20,None,Rented,1,Skilled,3 or More,No,No
+264,1,200 DM or Above,12,Paid Up,Furniture,1493,None,<1 Year,Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,34,None,Rented,1,Skilled,Less than 3,No,No
+265,1,200 DM or Above,22,Paid Up,Furniture,2675,"[100, 500)",Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,40,None,Rented,1,Skilled,3 or More,No,No
+266,1,None,9,Paid Up,Furniture,2118,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,37,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+267,1,200 DM or Above,36,Paid Up,Other,909,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,36,None,Rented,1,Skilled,3 or More,No,No
+268,1,200 DM or Above,12,Previous Credits Paid,Used Car,1258,None,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Car,22,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+269,1,200 DM or Above,15,Other Credits,Furniture,1569,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,34,Other Banks,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+270,1,200 DM or Above,6,Paid Up,New Car,1236,"[100, 500)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,50,None,Free,1,Skilled,3 or More,No,No
+271,1,200 DM or Above,36,No Problem with Current Credits,Used Car,7678,"[100, 500)","[4, 7)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,40,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+272,1,200 DM or Above,6,Paid Up,Appliances,660,"[100, 500)","[4, 7)","(25%, 35%)",Female,None,Above 7,None,23,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+273,1,200 DM or Above,24,Paid Up,Used Car,2835,"[100, 500)",Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Car,53,None,Rented,1,Skilled,3 or More,No,No
+274,1,200 DM or Above,24,Paid Up,New Car,2670,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,35,None,Rented,1,Executive,3 or More,Yes,No
+275,1,200 DM or Above,12,Other Credits,Vacation,3447,"[100, 500)","[1, 4)",Below 20%,"Male, Single",None,"[4, 7)",None,35,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+276,1,200 DM or Above,15,Paid Up,Furniture,3568,None,Above 7,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,54,Other Banks,Free,1,Executive,3 or More,Yes,No
+277,1,None,21,Previous Credits Paid,Retraining,3652,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+278,1,No Account,24,Paid Up,Furniture,3660,None,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,28,None,Rented,1,Skilled,3 or More,No,No
+279,1,Below 200 DM,9,Paid Up,Furniture,1126,Below 100 DM,Above 7,"(25%, 35%)","Male, Divorced",None,Above 7,None,49,None,Rented,1,Skilled,3 or More,No,No
+280,1,Below 200 DM,6,No Problem with Current Credits,Furniture,683,None,<1 Year,"(25%, 35%)","Male, Single",None,<1 Year,Car,29,Other Banks,Rented,1,Skilled,3 or More,No,No
+281,1,Below 200 DM,12,Paid Up,Used Car,2251,None,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,46,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+282,1,200 DM or Above,12,Paid Up,New Car,4675,Above 1000,<1 Year,Above 35%,"Male, Single",None,Above 7,Life Insurance,20,None,Free,1,Skilled,3 or More,No,No
+283,1,None,21,No Problem with Current Credits,Other,2353,None,"[1, 4)",Above 35%,"Male, Divorced",None,Above 7,Car,47,None,Rented,2 or 3,Skilled,3 or More,No,No
+284,1,No Account,21,Paid Up,Furniture,3357,"[500, 1000)",<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,29,Other Banks,Rented,1,Skilled,3 or More,No,No
+285,1,200 DM or Above,6,Paid Up,Other,672,None,Unemployed,Above 35%,"Male, Single",None,Above 7,None,54,None,Rented,1,"Unemployed, unskilled",3 or More,Yes,No
+286,1,No Account,6,Previous Credits Paid,Furniture,338,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,52,None,Rented,2 or 3,Skilled,3 or More,No,No
+287,1,200 DM or Above,9,Paid Up,Furniture,2697,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,32,None,Rented,1,Skilled,Less than 3,No,No
+288,1,200 DM or Above,9,Paid Up,Other,2507,"[100, 500)",Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,51,None,Owned,1,Unskilled Permanent Resident,3 or More,No,No
+289,1,200 DM or Above,15,No Problem with Current Credits,Furniture,1478,None,"[1, 4)",Below 20%,Female,None,"[4, 7)",None,33,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+290,1,200 DM or Above,12,Previous Credits Paid,Repair,3565,Above 1000,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Car,37,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+291,1,200 DM or Above,15,Paid Up,Used Car,2221,"[100, 500)","[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,20,None,Free,1,Skilled,3 or More,No,No
+292,1,200 DM or Above,6,Previous Credits Paid,Furniture,1898,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,34,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+293,1,None,6,No Problem with Current Credits,Retraining,1449,Below 100 DM,Above 7,Above 35%,"Male, Divorced",None,"[1, 4)",Life Insurance,31,Other Banks,Rented,2 or 3,Skilled,Less than 3,No,No
+294,1,200 DM or Above,15,No Problem with Current Credits,Used Car,960,"[500, 1000)","[4, 7)","[20%, 25%)","Male, Single",None,"[1, 4)",Car,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+295,1,200 DM or Above,36,Paid Up,New Car,8133,None,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",Car,30,Other Banks,Rented,1,Skilled,3 or More,No,No
+296,1,200 DM or Above,9,Paid Up,Used Car,2301,Below 100 DM,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Car,22,None,Free,1,Skilled,3 or More,No,No
+297,1,200 DM or Above,6,No Problem with Current Credits,Retraining,1743,Below 100 DM,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,34,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+298,1,None,12,Paid Up,Used Car,983,"[500, 1000)",<1 Year,Above 35%,"Male, Single",None,Above 7,None,19,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+299,1,200 DM or Above,18,No Problem with Current Credits,Furniture,2320,None,Unemployed,"(25%, 35%)",Female,None,"[4, 7)",None,34,None,Rented,2 or 3,Skilled,3 or More,No,No
+300,1,No Account,12,Other Credits,Vacation,339,None,Above 7,Below 20%,Female,None,<1 Year,Life Insurance,45,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+301,1,Below 200 DM,24,Paid Up,Furniture,5152,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,25,Other Banks,Rented,1,Skilled,3 or More,No,No
+302,1,Below 200 DM,24,Paid Up,Used Car,3749,None,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Life Insurance,26,None,Rented,1,Skilled,3 or More,No,No
+303,1,200 DM or Above,9,Previous Credits Paid,Furniture,3074,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,33,None,Rented,2 or 3,Skilled,Less than 3,No,No
+304,0,Below 200 DM,9,Paid Up,Furniture,745,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",None,28,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+305,1,200 DM or Above,24,Paid Up,Other,1469,Below 100 DM,Above 7,Below 20%,Female,None,Above 7,None,41,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+306,1,No Account,6,Paid Up,Used Car,1374,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",None,36,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+307,1,200 DM or Above,6,Other Credits,Other,783,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",Guarantor,"[1, 4)",None,26,Dept. Store,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+308,1,No Account,21,Paid Up,Furniture,2606,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,28,None,Free,1,Executive,3 or More,Yes,No
+309,1,200 DM or Above,54,Delayed,New Car,9436,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,39,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+310,1,200 DM or Above,12,Previous Credits Paid,Furniture,930,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,65,None,Rented,Above 6,Skilled,3 or More,No,No
+311,1,200 DM or Above,48,Previous Credits Paid,New Car,2751,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,38,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+312,1,200 DM or Above,6,Previous Credits Paid,Other,250,"[500, 1000)","[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",None,41,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+313,1,None,24,Paid Up,Other,1201,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Car,26,None,Rented,1,Skilled,3 or More,No,No
+314,1,No Account,6,Paid Up,Other,662,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,Above 7,None,41,None,Rented,1,Unskilled Permanent Resident,Less than 3,Yes,No
+315,1,200 DM or Above,15,Paid Up,New Car,1300,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,45,Other Banks,Owned,1,Skilled,Less than 3,No,No
+316,1,200 DM or Above,24,Other Credits,Retraining,1559,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,40,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+317,1,Below 200 DM,12,Paid Up,Furniture,3016,None,"[1, 4)","[20%, 25%)",Female,None,<1 Year,Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+318,1,200 DM or Above,15,Previous Credits Paid,Furniture,1360,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,31,None,Rented,2 or 3,Skilled,3 or More,No,No
+319,1,200 DM or Above,6,Delayed,Other,1204,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",None,<1 Year,Real Estate,35,Other Banks,Free,1,Skilled,3 or More,No,Yes
+320,1,200 DM or Above,10,Paid Up,Other,1597,"[100, 500)","[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,40,None,Free,1,Unskilled Permanent Resident,Less than 3,No,Yes
+321,1,200 DM or Above,12,Paid Up,Furniture,2073,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",Co-applicant,"[1, 4)",None,28,None,Rented,1,Skilled,3 or More,No,No
+322,1,200 DM or Above,11,Paid Up,Retraining,2142,"[500, 1000)",Above 7,Above 35%,"Male, Divorced",None,"[1, 4)",None,28,None,Rented,1,Skilled,3 or More,Yes,No
+323,1,No Account,10,Previous Credits Paid,Used Car,2132,Above 1000,<1 Year,"(25%, 35%)","Male, Single",Co-applicant,"[4, 7)",None,27,None,Free,2 or 3,Skilled,3 or More,No,Yes
+324,1,200 DM or Above,10,Paid Up,Other,1546,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,31,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,Yes
+325,1,200 DM or Above,24,Previous Credits Paid,Other,1287,"[500, 1000)",Above 7,Below 20%,"Male, Single",None,Above 7,None,37,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+326,1,200 DM or Above,10,Paid Up,Other,1418,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,35,None,Free,1,Unskilled Permanent Resident,3 or More,No,Yes
+327,1,Below 200 DM,6,Previous Credits Paid,Other,1343,None,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,None,46,None,Rented,2 or 3,Skilled,Less than 3,No,Yes
+328,1,200 DM or Above,18,Paid Up,Other,2662,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,32,None,Rented,1,Skilled,3 or More,No,Yes
+329,1,200 DM or Above,18,Previous Credits Paid,Furniture,6070,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,33,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+330,1,200 DM or Above,24,Previous Credits Paid,Repair,1927,Above 1000,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",Life Insurance,33,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+331,1,200 DM or Above,18,Previous Credits Paid,Furniture,2404,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,26,None,Rented,2 or 3,Skilled,3 or More,No,No
+332,1,200 DM or Above,6,Previous Credits Paid,Furniture,1554,None,"[4, 7)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,24,None,Free,2 or 3,Skilled,3 or More,Yes,No
+333,1,200 DM or Above,22,Paid Up,Other,1283,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Car,25,None,Free,1,Skilled,3 or More,No,No
+334,1,200 DM or Above,24,No Problem with Current Credits,Other,717,Above 1000,Above 7,Below 20%,Female,None,Above 7,Life Insurance,54,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+335,1,No Account,24,Paid Up,Used Car,1747,None,<1 Year,Below 20%,"Male, Married/Widowed",Co-applicant,<1 Year,Car,24,None,Rented,1,Unskilled Permanent Resident,3 or More,No,Yes
+336,1,No Account,9,Previous Credits Paid,Appliances,1288,Below 100 DM,Above 7,"[20%, 25%)","Male, Married/Widowed",Guarantor,Above 7,None,48,None,Rented,2 or 3,Skilled,Less than 3,No,Yes
+337,1,No Account,10,Previous Credits Paid,Other,1038,None,"[4, 7)",Below 20%,"Male, Married/Widowed",Co-applicant,"[4, 7)",Car,49,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+338,1,200 DM or Above,10,Paid Up,New Car,2848,Below 100 DM,"[1, 4)",Above 35%,"Male, Married/Widowed",Co-applicant,"[1, 4)",None,32,None,Rented,1,Skilled,Less than 3,No,No
+339,1,200 DM or Above,12,Paid Up,New Car,1413,"[500, 1000)","[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,55,None,Rented,1,Skilled,3 or More,No,Yes
+340,1,200 DM or Above,30,Previous Credits Paid,Furniture,3077,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,40,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+341,1,No Account,24,Other Credits,New Car,3632,None,"[1, 4)",Above 35%,"Male, Single",Guarantor,Above 7,Life Insurance,22,Other Banks,Free,1,Skilled,3 or More,No,Yes
+342,1,200 DM or Above,18,Previous Credits Paid,New Car,3229,Above 1000,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,38,None,Rented,1,Executive,3 or More,Yes,No
+343,1,200 DM or Above,9,Paid Up,Other,3577,Below 100 DM,"[1, 4)",Above 35%,"Male, Married/Widowed",Guarantor,"[1, 4)",None,26,None,Free,1,Skilled,Less than 3,No,Yes
+344,1,200 DM or Above,12,Previous Credits Paid,Other,682,Below 100 DM,"[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,51,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+345,1,200 DM or Above,10,Paid Up,Furniture,1924,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,Car,38,None,Rented,1,Skilled,3 or More,Yes,Yes
+346,1,200 DM or Above,10,Paid Up,Repair,727,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,46,None,Owned,1,Skilled,3 or More,Yes,No
+347,1,Below 200 DM,10,Previous Credits Paid,Other,781,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,63,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+348,1,No Account,12,Previous Credits Paid,Other,2121,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+349,1,200 DM or Above,12,Previous Credits Paid,Repair,701,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,32,None,Rented,2 or 3,Skilled,3 or More,No,No
+350,1,200 DM or Above,10,Previous Credits Paid,Used Car,2069,Above 1000,"[1, 4)","(25%, 35%)",Female,None,<1 Year,Life Insurance,26,None,Rented,2 or 3,Skilled,3 or More,No,Yes
+351,1,200 DM or Above,24,Paid Up,Other,1525,"[500, 1000)","[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,34,None,Rented,1,Skilled,Less than 3,Yes,No
+352,1,200 DM or Above,48,Previous Credits Paid,Retraining,7629,Above 1000,Above 7,Below 20%,"Male, Divorced",None,"[1, 4)",Life Insurance,46,Other Banks,Rented,2 or 3,Executive,Less than 3,No,No
+353,0,No Account,12,Previous Credits Paid,Other,3499,None,"[1, 4)","[20%, 25%)","Male, Single",Co-applicant,"[1, 4)",None,29,None,Rented,2 or 3,Skilled,3 or More,No,No
+354,1,200 DM or Above,6,Paid Up,Furniture,1346,Below 100 DM,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,42,Other Banks,Owned,1,Skilled,Less than 3,Yes,No
+355,1,200 DM or Above,36,Previous Credits Paid,New Car,10477,Above 1000,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,42,None,Owned,2 or 3,Skilled,3 or More,No,No
+356,1,No Account,24,Paid Up,New Car,2924,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",Guarantor,Above 7,Real Estate,63,Other Banks,Rented,1,Skilled,Less than 3,Yes,No
+357,1,200 DM or Above,10,Previous Credits Paid,Other,1231,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,None,32,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,Yes
+358,1,Below 200 DM,18,Paid Up,Other,1961,None,Above 7,"[20%, 25%)","Male, Single",None,"[1, 4)",Life Insurance,23,None,Rented,1,Executive,3 or More,No,No
+359,1,200 DM or Above,15,Previous Credits Paid,Other,5045,Above 1000,Above 7,Above 35%,"Male, Single",None,Above 7,Life Insurance,59,None,Rented,1,Skilled,3 or More,Yes,No
+360,1,200 DM or Above,12,Previous Credits Paid,Other,1255,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,61,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+361,1,No Account,12,Paid Up,Used Car,1858,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Life Insurance,22,None,Free,1,Skilled,3 or More,No,No
+362,1,200 DM or Above,6,Previous Credits Paid,Used Car,1221,Above 1000,"[1, 4)",Above 35%,Female,None,"[1, 4)",Car,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+363,1,200 DM or Above,9,Paid Up,Used Car,1388,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",None,26,None,Free,1,Skilled,3 or More,No,No
+364,1,200 DM or Above,12,Paid Up,Furniture,2279,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,37,None,Owned,1,Skilled,3 or More,Yes,No
+365,1,200 DM or Above,12,Delayed,Used Car,2759,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,34,None,Rented,2 or 3,Skilled,3 or More,No,No
+366,1,Below 200 DM,24,Paid Up,Furniture,1258,"[100, 500)","[1, 4)","[20%, 25%)","Male, Single",None,"[4, 7)",Life Insurance,57,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+367,1,None,12,Delayed,Vacation,1410,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,31,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+368,1,No Account,15,Paid Up,Other,1403,None,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,28,None,Free,1,Skilled,3 or More,No,No
+369,1,No Account,24,Paid Up,Used Car,3021,None,"[1, 4)","(25%, 35%)","Male, Divorced",None,"[1, 4)",None,24,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+370,1,No Account,24,Paid Up,Retraining,6568,None,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Life Insurance,21,Dept. Store,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+371,1,200 DM or Above,24,Previous Credits Paid,Furniture,2578,"[500, 1000)",Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,34,None,Rented,1,Skilled,3 or More,No,No
+372,1,None,24,Previous Credits Paid,New Car,7758,"[500, 1000)",Above 7,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,29,None,Free,1,Skilled,3 or More,No,No
+373,1,No Account,6,Paid Up,Radio/TV,343,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,None,27,None,Rented,1,Skilled,3 or More,No,No
+374,1,200 DM or Above,21,No Problem with Current Credits,Used Car,1591,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,34,None,Rented,2 or 3,Executive,3 or More,No,No
+375,1,No Account,27,Paid Up,Furniture,3416,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,None,Rented,1,Executive,3 or More,No,No
+376,0,No Account,12,Delayed,Appliances,1108,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+377,1,None,27,No Problem with Current Credits,New Car,5965,None,Above 7,Above 35%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,2 or 3,Executive,3 or More,Yes,No
+378,1,None,15,Paid Up,Appliances,1514,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",Guarantor,"[1, 4)",None,22,None,Rented,1,Skilled,3 or More,No,No
+379,1,200 DM or Above,30,Previous Credits Paid,Furniture,6742,Above 1000,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,36,None,Rented,2 or 3,Skilled,3 or More,No,No
+380,1,No Account,18,Paid Up,Used Car,3650,None,<1 Year,Above 35%,"Male, Single",None,Above 7,Life Insurance,22,None,Free,1,Skilled,3 or More,No,No
+381,1,No Account,21,Paid Up,Used Car,3599,None,"[4, 7)",Above 35%,"Male, Single",None,Above 7,Life Insurance,26,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+382,1,200 DM or Above,60,Previous Credits Paid,Other,13756,Above 1000,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,63,Other Banks,Owned,1,Executive,3 or More,Yes,No
+383,1,None,9,Paid Up,Other,276,None,"[1, 4)",Below 20%,Female,None,Above 7,None,22,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+384,1,200 DM or Above,42,Previous Credits Paid,Used Car,4041,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+385,1,None,9,Paid Up,Furniture,458,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,24,None,Rented,1,Skilled,3 or More,No,No
+386,0,None,9,Paid Up,Used Car,918,None,"[1, 4)",Below 20%,"Male, Single",None,<1 Year,Car,30,None,Rented,1,Skilled,3 or More,No,No
+387,1,200 DM or Above,24,Paid Up,Other,7393,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,Car,43,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+388,1,Below 200 DM,10,Paid Up,Radio/TV,1225,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,37,None,Rented,1,Skilled,3 or More,Yes,No
+389,1,No Account,24,Paid Up,New Car,2812,Above 1000,Above 7,"(25%, 35%)","Male, Single",None,Above 7,None,26,None,Free,1,Skilled,3 or More,No,No
+390,1,200 DM or Above,15,Paid Up,New Car,3029,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,33,None,Rented,1,Skilled,3 or More,No,No
+391,1,Below 200 DM,12,Previous Credits Paid,Other,1480,"[100, 500)",Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,66,Other Banks,Owned,4 or 5,"Unemployed, unskilled",3 or More,No,No
+392,1,Below 200 DM,6,Previous Credits Paid,Repair,1047,None,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Car,50,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+393,1,200 DM or Above,15,Previous Credits Paid,Furniture,1471,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,35,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+394,1,200 DM or Above,24,Paid Up,Used Car,5511,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,25,Dept. Store,Rented,1,Skilled,3 or More,No,No
+395,1,None,9,Paid Up,Furniture,1206,None,Above 7,Below 20%,"Male, Single",None,Above 7,None,25,None,Rented,1,Skilled,3 or More,No,No
+396,1,None,24,No Problem with Current Credits,Furniture,6403,None,<1 Year,Above 35%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,33,None,Rented,1,Skilled,3 or More,No,No
+397,1,200 DM or Above,12,Paid Up,Furniture,707,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,30,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+398,1,200 DM or Above,12,No Problem with Current Credits,New Car,1503,None,"[1, 4)",Below 20%,Female,None,Above 7,None,41,None,Free,1,Skilled,3 or More,No,No
+399,1,None,12,Paid Up,Other,6078,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,32,None,Rented,1,Skilled,3 or More,No,No
+400,1,None,27,Paid Up,Retraining,2528,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Car,32,None,Rented,1,Skilled,Less than 3,Yes,No
+401,1,None,12,Paid Up,Retraining,1037,Below 100 DM,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,None,39,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+402,1,No Account,6,Paid Up,New Car,1352,"[100, 500)",Unemployed,Above 35%,"Male, Single",None,"[1, 4)",Car,23,None,Free,1,"Unemployed, unskilled",3 or More,Yes,No
+403,1,200 DM or Above,24,Paid Up,Furniture,3181,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,26,None,Rented,1,Skilled,3 or More,Yes,No
+404,1,200 DM or Above,18,Paid Up,Furniture,4594,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,32,None,Rented,1,Skilled,3 or More,Yes,No
+405,1,None,48,Paid Up,Business,5381,Above 1000,Unemployed,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,40,Other Banks,Owned,1,"Unemployed, unskilled",3 or More,Yes,No
+406,1,200 DM or Above,15,Paid Up,New Car,4657,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,1,Skilled,3 or More,Yes,No
+407,1,None,9,Paid Up,Retraining,1391,None,"[1, 4)","(25%, 35%)",Female,None,<1 Year,None,27,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+408,1,None,18,Paid Up,Retraining,1913,"[500, 1000)",<1 Year,"[20%, 25%)",Female,None,"[4, 7)",None,36,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+409,1,200 DM or Above,42,Paid Up,Furniture,7166,Above 1000,"[4, 7)","(25%, 35%)",Female,None,Above 7,Car,29,None,Free,1,Skilled,3 or More,Yes,No
+410,1,200 DM or Above,13,Paid Up,Furniture,1409,Below 100 DM,Unemployed,"(25%, 35%)","Male, Single",None,Above 7,None,64,None,Rented,1,Skilled,3 or More,No,No
+411,1,200 DM or Above,24,No Problem with Current Credits,Retraining,2978,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,32,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+412,1,200 DM or Above,12,Previous Credits Paid,Furniture,976,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,35,None,Rented,2 or 3,Skilled,3 or More,No,No
+413,1,200 DM or Above,24,No Problem with Current Credits,Retraining,2375,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,44,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+414,1,200 DM or Above,12,Previous Credits Paid,Furniture,522,"[100, 500)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,42,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+415,1,200 DM or Above,28,Previous Credits Paid,Furniture,2743,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,29,None,Rented,2 or 3,Skilled,3 or More,No,No
+416,1,200 DM or Above,11,Previous Credits Paid,Furniture,1154,Below 100 DM,Unemployed,Below 20%,"Male, Single",None,Above 7,None,57,None,Rented,4 or 5,Unskilled Permanent Resident,3 or More,No,No
+417,1,200 DM or Above,24,Previous Credits Paid,New Car,5804,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+418,1,200 DM or Above,18,Previous Credits Paid,Furniture,1169,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,29,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+419,1,No Account,15,Previous Credits Paid,Used Car,1478,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,44,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+420,1,200 DM or Above,12,Paid Up,Furniture,776,None,"[1, 4)",Below 20%,Female,None,"[1, 4)",None,28,None,Rented,1,Skilled,3 or More,No,No
+421,1,None,11,Previous Credits Paid,Other,1322,"[500, 1000)","[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,40,None,Rented,2 or 3,Skilled,3 or More,No,No
+422,1,None,16,Previous Credits Paid,Other,1175,None,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,68,None,Owned,4 or 5,"Unemployed, unskilled",3 or More,Yes,No
+423,1,200 DM or Above,12,Paid Up,Other,2133,Above 1000,Above 7,Below 20%,"Male, Single",None,Above 7,Real Estate,52,None,Owned,1,Executive,3 or More,Yes,No
+424,1,200 DM or Above,15,Previous Credits Paid,Furniture,1829,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,46,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+425,1,200 DM or Above,12,Previous Credits Paid,Furniture,717,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,52,None,Rented,4 or 5,Skilled,3 or More,No,No
+426,1,None,39,No Problem with Current Credits,Repair,11760,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Real Estate,32,None,Free,1,Skilled,3 or More,Yes,No
+427,0,None,9,Previous Credits Paid,Repair,1501,None,Above 7,"(25%, 35%)","Male, Single",None,"[4, 7)",Life Insurance,34,None,Rented,2 or 3,Executive,3 or More,Yes,No
+428,1,No Account,12,Paid Up,Repair,1200,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Car,23,Other Banks,Free,1,Skilled,3 or More,Yes,No
+429,1,None,9,Paid Up,Other,3195,Above 1000,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",None,33,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+430,1,200 DM or Above,30,Previous Credits Paid,Furniture,4530,None,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Life Insurance,26,None,Free,1,Executive,3 or More,Yes,No
+431,0,200 DM or Above,12,No Problem with Current Credits,Appliances,1555,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,55,None,Owned,2 or 3,Skilled,Less than 3,No,No
+432,1,None,15,Previous Credits Paid,Retraining,2326,"[100, 500)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,27,Other Banks,Rented,1,Skilled,3 or More,No,No
+433,1,None,18,Previous Credits Paid,Retraining,1887,Above 1000,"[1, 4)",Below 20%,Female,None,Above 7,None,28,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+434,1,200 DM or Above,12,Previous Credits Paid,Retraining,1264,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,57,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+435,1,200 DM or Above,7,No Problem with Current Credits,Furniture,846,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,36,None,Owned,1,Skilled,3 or More,No,No
+436,1,200 DM or Above,15,Previous Credits Paid,Repair,1532,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,31,None,Rented,1,Skilled,3 or More,No,No
+437,1,200 DM or Above,6,No Problem with Current Credits,Furniture,935,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",None,24,None,Rented,1,Skilled,3 or More,No,No
+438,1,No Account,27,Previous Credits Paid,Retraining,2442,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,43,Dept. Store,Rented,Above 6,Executive,Less than 3,Yes,No
+439,1,None,18,Previous Credits Paid,Retraining,3590,None,Unemployed,"[20%, 25%)",Female,None,"[4, 7)",Life Insurance,40,None,Rented,4 or 5,"Unemployed, unskilled",Less than 3,Yes,No
+440,1,200 DM or Above,21,Previous Credits Paid,Used Car,2288,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,23,None,Rented,1,Skilled,3 or More,Yes,No
+441,1,200 DM or Above,27,No Problem with Current Credits,Retraining,5117,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,26,None,Rented,2 or 3,Skilled,3 or More,No,No
+442,1,No Account,39,Previous Credits Paid,Used Car,14179,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Car,30,None,Rented,2 or 3,Executive,3 or More,Yes,No
+443,1,200 DM or Above,15,Paid Up,Furniture,1386,Above 1000,"[1, 4)",Below 20%,Female,None,"[1, 4)",None,40,None,Free,1,Skilled,3 or More,Yes,No
+444,1,200 DM or Above,12,Previous Credits Paid,Furniture,618,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,56,None,Rented,1,Skilled,3 or More,No,No
+445,1,200 DM or Above,12,Paid Up,Used Car,1574,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,50,None,Rented,1,Skilled,3 or More,No,No
+446,1,200 DM or Above,6,Previous Credits Paid,Furniture,700,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,36,None,Owned,2 or 3,Skilled,3 or More,No,No
+447,1,200 DM or Above,12,Paid Up,Furniture,886,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,21,None,Rented,1,Skilled,3 or More,No,No
+448,1,200 DM or Above,36,Paid Up,New Car,4686,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,32,None,Owned,1,Executive,3 or More,Yes,No
+449,1,None,9,Paid Up,Furniture,790,"[100, 500)","[1, 4)",Below 20%,"Male, Single",None,"[4, 7)",None,66,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+450,0,None,12,Paid Up,Furniture,766,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,66,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+451,1,No Account,20,Paid Up,Used Car,2212,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,39,None,Rented,1,Skilled,3 or More,Yes,No
+452,1,None,10,Paid Up,Other,7308,None,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,70,Other Banks,Owned,1,Executive,3 or More,Yes,No
+453,1,None,24,Previous Credits Paid,Repair,5743,None,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,24,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+454,1,No Account,14,Paid Up,Other,3973,None,Unemployed,Above 35%,"Male, Married/Widowed",None,Above 7,Real Estate,22,None,Owned,1,Skilled,3 or More,No,No
+455,1,None,60,No Problem with Current Credits,Furniture,7418,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",None,<1 Year,None,27,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+456,1,None,20,No Problem with Current Credits,Business,2629,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,29,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+457,1,None,18,Paid Up,Retraining,1941,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,35,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+458,1,None,24,No Problem with Current Credits,Used Car,2333,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,29,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+459,1,200 DM or Above,12,Paid Up,New Car,2445,Above 1000,<1 Year,"(25%, 35%)",Female,None,Above 7,Life Insurance,26,None,Free,1,Skilled,3 or More,Yes,No
+460,1,None,20,Paid Up,New Car,6468,Above 1000,Unemployed,Above 35%,"Male, Divorced",None,Above 7,None,60,None,Rented,1,Executive,3 or More,Yes,No
+461,1,None,18,Previous Credits Paid,Used Car,7374,None,Unemployed,Below 20%,"Male, Married/Widowed",None,Above 7,Car,40,Dept. Store,Rented,2 or 3,Executive,3 or More,Yes,No
+462,1,200 DM or Above,15,Paid Up,New Car,3812,Below 100 DM,<1 Year,Above 35%,"Male, Single",None,Above 7,Life Insurance,23,None,Rented,1,Skilled,3 or More,Yes,No
+463,0,No Account,28,Paid Up,Other,4006,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,45,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+464,1,None,12,Paid Up,Other,7472,Above 1000,Unemployed,Above 35%,"Male, Single",None,"[1, 4)",None,24,None,Free,1,"Unemployed, unskilled",3 or More,No,No
+465,1,Below 200 DM,12,Paid Up,Used Car,1424,Above 1000,Above 7,"[20%, 25%)","Male, Single",None,Above 7,None,55,None,Rented,1,Executive,3 or More,Yes,No
+466,1,None,12,Paid Up,New Car,2028,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,1,Skilled,3 or More,No,No
+467,1,200 DM or Above,15,Paid Up,Other,5324,"[100, 500)",Above 7,Above 35%,"Male, Single",None,Above 7,Real Estate,35,None,Owned,1,Skilled,3 or More,No,No
+468,1,None,36,Paid Up,Furniture,2323,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,24,None,Free,1,Skilled,3 or More,No,No
+469,1,200 DM or Above,12,Paid Up,Repair,1393,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,47,Other Banks,Rented,4 or 5,Skilled,Less than 3,Yes,No
+470,1,200 DM or Above,18,Paid Up,Used Car,1984,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,47,Other Banks,Owned,2 or 3,Skilled,3 or More,No,No
+471,1,200 DM or Above,24,Paid Up,Furniture,999,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+472,1,200 DM or Above,36,Paid Up,Retraining,7409,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,37,None,Rented,2 or 3,Skilled,3 or More,No,No
+473,1,200 DM or Above,15,Paid Up,Used Car,2186,Above 1000,"[4, 7)",Above 35%,"Male, Single",None,Above 7,None,33,Other Banks,Free,1,Unskilled Permanent Resident,3 or More,No,No
+474,1,Below 200 DM,36,Paid Up,Furniture,4473,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,None,Rented,1,Skilled,3 or More,No,No
+475,1,200 DM or Above,24,Paid Up,Vacation,937,None,<1 Year,Below 20%,Female,None,"[4, 7)",Life Insurance,27,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+476,1,200 DM or Above,18,Paid Up,Used Car,3422,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,47,Other Banks,Rented,4 or 5,Skilled,Less than 3,Yes,No
+477,1,200 DM or Above,24,Paid Up,Furniture,3105,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+478,1,200 DM or Above,12,Previous Credits Paid,Repair,2748,None,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,57,Other Banks,Owned,4 or 5,Unskilled Permanent Resident,3 or More,No,No
+479,1,None,18,Paid Up,Appliances,3872,None,Unemployed,"(25%, 35%)","Male, Single",None,Above 7,Life Insurance,67,None,Rented,1,Skilled,3 or More,Yes,No
+480,1,200 DM or Above,27,Paid Up,Appliances,5190,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,48,None,Rented,Above 6,Skilled,Less than 3,Yes,No
+481,1,None,18,Paid Up,Used Car,3001,None,"[4, 7)","(25%, 35%)","Male, Single",None,Above 7,None,40,None,Free,1,Skilled,3 or More,No,No
+482,1,200 DM or Above,24,No Problem with Current Credits,Retraining,3863,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,32,None,Owned,1,Skilled,3 or More,No,No
+483,1,200 DM or Above,12,Previous Credits Paid,Used Car,5801,Above 1000,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,49,None,Free,1,Skilled,3 or More,Yes,Yes
+484,1,200 DM or Above,12,Previous Credits Paid,Used Car,1592,"[500, 1000)","[4, 7)","[20%, 25%)","Male, Single",None,"[1, 4)",Car,35,None,Rented,1,Skilled,3 or More,No,No
+485,1,200 DM or Above,12,Previous Credits Paid,Retraining,1185,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",None,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+486,1,200 DM or Above,18,Previous Credits Paid,Used Car,3780,None,<1 Year,"[20%, 25%)","Male, Divorced",None,"[1, 4)",Life Insurance,35,None,Rented,2 or 3,Executive,3 or More,Yes,No
+487,1,None,18,Previous Credits Paid,Used Car,3612,None,Above 7,"[20%, 25%)","Male, Single",None,Above 7,Car,37,None,Rented,1,Skilled,3 or More,Yes,Yes
+488,1,200 DM or Above,12,Paid Up,Retraining,1076,None,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",None,26,None,Rented,1,Skilled,3 or More,Yes,No
+489,1,200 DM or Above,12,Paid Up,Other,3527,Above 1000,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,45,None,Rented,1,Executive,Less than 3,Yes,No
+490,1,200 DM or Above,18,Paid Up,Furniture,2051,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,None,33,None,Rented,1,Skilled,3 or More,No,No
+491,1,200 DM or Above,12,Previous Credits Paid,Used Car,3331,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,42,Dept. Store,Rented,1,Skilled,3 or More,No,No
+492,1,No Account,18,Delayed,Retraining,3104,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,Car,31,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+493,1,200 DM or Above,24,Previous Credits Paid,Furniture,2611,None,Above 7,Below 20%,Female,Co-applicant,"[4, 7)",None,46,None,Rented,2 or 3,Skilled,3 or More,No,No
+494,1,No Account,12,Previous Credits Paid,New Car,1409,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,54,None,Rented,1,Skilled,3 or More,No,No
+495,1,200 DM or Above,24,Paid Up,Furniture,1311,Below 100 DM,"[4, 7)",Below 20%,Female,None,"[4, 7)",Car,26,None,Rented,1,Skilled,3 or More,Yes,No
+496,1,200 DM or Above,6,Paid Up,Furniture,2108,None,"[4, 7)","(25%, 35%)",Female,None,"[1, 4)",None,29,None,Free,1,Skilled,3 or More,No,No
+497,1,200 DM or Above,24,Previous Credits Paid,New Car,4042,Above 1000,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Car,43,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+498,1,200 DM or Above,12,Previous Credits Paid,Other,926,None,Unemployed,Above 35%,"Male, Single",None,"[1, 4)",Car,38,None,Rented,1,"Unemployed, unskilled",3 or More,No,No
+499,1,No Account,12,Paid Up,Furniture,1680,"[100, 500)",Above 7,"[20%, 25%)",Female,None,<1 Year,None,35,None,Rented,1,Skilled,3 or More,No,No
+500,1,200 DM or Above,24,Paid Up,Other,1249,None,<1 Year,Below 20%,Female,None,"[1, 4)",None,28,None,Rented,1,Skilled,3 or More,No,No
+501,1,200 DM or Above,24,Previous Credits Paid,Other,2463,Below 100 DM,"[4, 7)",Below 20%,Female,None,"[4, 7)",Car,27,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+502,1,200 DM or Above,6,Paid Up,Furniture,1595,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,51,None,Rented,1,Skilled,Less than 3,No,No
+503,1,200 DM or Above,24,Previous Credits Paid,Appliances,2058,None,"[1, 4)",Below 20%,"Male, Divorced",None,"[1, 4)",None,33,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+504,1,200 DM or Above,24,Paid Up,New Car,7814,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,38,None,Rented,1,Executive,3 or More,Yes,No
+505,1,200 DM or Above,6,Previous Credits Paid,Furniture,1740,None,Above 7,"(25%, 35%)",Female,None,"[1, 4)",None,30,None,Free,2 or 3,Skilled,3 or More,No,No
+506,1,200 DM or Above,12,Previous Credits Paid,Furniture,1240,Above 1000,Above 7,Below 20%,"Male, Single",None,"[1, 4)",None,38,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+507,1,200 DM or Above,24,Previous Credits Paid,New Car,6842,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,46,None,Rented,2 or 3,Executive,Less than 3,Yes,No
+508,1,200 DM or Above,24,Previous Credits Paid,Used Car,5150,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,33,None,Rented,1,Skilled,3 or More,Yes,No
+509,1,No Account,6,Paid Up,Other,1203,Below 100 DM,Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,43,None,Rented,1,Skilled,3 or More,Yes,No
+510,1,200 DM or Above,6,Previous Credits Paid,Other,2080,"[100, 500)","[1, 4)",Above 35%,Female,None,"[1, 4)",Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+511,1,200 DM or Above,6,Paid Up,Repair,1538,None,<1 Year,Above 35%,"Male, Single",None,"[1, 4)",Real Estate,56,None,Rented,1,Skilled,3 or More,No,No
+512,1,None,24,Previous Credits Paid,Other,3878,Below 100 DM,<1 Year,Below 20%,"Male, Divorced",None,"[1, 4)",Life Insurance,37,None,Rented,1,Skilled,3 or More,Yes,No
+513,1,None,30,Paid Up,Used Car,3832,None,<1 Year,"(25%, 35%)",Female,None,<1 Year,Car,22,None,Rented,1,Skilled,3 or More,No,No
+514,1,200 DM or Above,15,Paid Up,Other,3186,"[500, 1000)","[4, 7)","(25%, 35%)","Male, Single",None,"[4, 7)",Life Insurance,20,None,Free,1,Skilled,3 or More,No,No
+515,1,None,24,Paid Up,Furniture,2896,Below 100 DM,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Life Insurance,29,None,Rented,1,Skilled,3 or More,No,No
+516,1,None,24,No Problem with Current Credits,Retraining,6967,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,36,None,Free,1,Executive,3 or More,Yes,No
+517,0,200 DM or Above,36,Paid Up,Repair,1819,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,37,Dept. Store,Owned,1,Skilled,3 or More,Yes,No
+518,0,200 DM or Above,24,Paid Up,Furniture,5943,Above 1000,<1 Year,Above 35%,"Male, Single",None,<1 Year,Life Insurance,44,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+519,0,200 DM or Above,36,Previous Credits Paid,Used Car,7127,None,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Car,23,None,Free,2 or 3,Skilled,3 or More,Yes,No
+520,0,200 DM or Above,36,Paid Up,Used Car,3349,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,28,None,Rented,1,Executive,3 or More,Yes,No
+521,0,200 DM or Above,36,Paid Up,Used Car,10974,None,Unemployed,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,26,None,Rented,2 or 3,Executive,3 or More,Yes,No
+522,1,200 DM or Above,6,Paid Up,Furniture,518,None,"[1, 4)","[20%, 25%)","Male, Single",None,<1 Year,None,29,None,Rented,1,Skilled,3 or More,No,No
+523,1,200 DM or Above,18,Paid Up,Furniture,1126,Above 1000,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",None,21,None,Free,1,Skilled,3 or More,Yes,No
+524,1,None,12,Previous Credits Paid,New Car,1860,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,34,None,Rented,2 or 3,Executive,3 or More,Yes,No
+525,1,200 DM or Above,36,Previous Credits Paid,Furniture,9566,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,31,Dept. Store,Rented,2 or 3,Skilled,3 or More,No,No
+526,1,No Account,12,Paid Up,Furniture,701,None,"[1, 4)",Below 20%,Female,None,"[1, 4)",None,40,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+527,1,None,12,Paid Up,Furniture,2930,None,"[4, 7)","(25%, 35%)","Male, Single",None,<1 Year,None,27,None,Rented,1,Skilled,3 or More,No,No
+528,1,200 DM or Above,18,Paid Up,Furniture,1505,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,32,None,Owned,1,Executive,3 or More,Yes,No
+529,1,200 DM or Above,18,Previous Credits Paid,Furniture,2238,None,"[1, 4)","(25%, 35%)","Male, Single",None,<1 Year,Life Insurance,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+530,1,200 DM or Above,4,Previous Credits Paid,Furniture,1503,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,None,42,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+531,1,200 DM or Above,24,Previous Credits Paid,New Car,2197,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,43,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+532,1,Below 200 DM,12,Paid Up,Furniture,1881,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,44,None,Free,1,Unskilled Permanent Resident,3 or More,Yes,No
+533,1,No Account,18,Previous Credits Paid,Furniture,1880,None,"[4, 7)",Below 20%,Female,None,<1 Year,Car,32,None,Rented,2 or 3,Executive,3 or More,Yes,No
+534,1,No Account,18,Paid Up,Furniture,2389,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Life Insurance,27,Dept. Store,Rented,1,Skilled,3 or More,No,No
+535,1,None,24,Paid Up,Furniture,1967,None,Above 7,Below 20%,"Male, Single",None,Above 7,Life Insurance,20,None,Rented,1,Skilled,3 or More,Yes,No
+536,1,200 DM or Above,4,Previous Credits Paid,Other,3380,None,"[4, 7)",Above 35%,"Male, Single",None,<1 Year,None,37,None,Rented,1,Skilled,Less than 3,No,No
+537,1,200 DM or Above,4,Previous Credits Paid,Other,1455,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,None,42,None,Rented,4 or 5,Unskilled Permanent Resident,Less than 3,No,No
+538,1,200 DM or Above,7,Previous Credits Paid,Furniture,730,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,46,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+539,1,None,18,Delayed,Used Car,3244,None,"[1, 4)",Above 35%,"Male, Single",None,Above 7,Life Insurance,33,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+540,0,None,9,Paid Up,Furniture,1670,None,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,22,None,Rented,1,Skilled,3 or More,Yes,No
+541,1,None,48,Paid Up,Furniture,3979,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,41,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+542,0,None,12,Paid Up,Used Car,1922,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,37,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+543,1,None,18,Previous Credits Paid,Used Car,1295,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Car,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+544,1,200 DM or Above,4,Previous Credits Paid,Furniture,1544,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,None,42,None,Rented,4 or 5,Unskilled Permanent Resident,Less than 3,No,No
+545,1,None,8,Paid Up,Retraining,907,None,<1 Year,"[20%, 25%)",Female,None,"[1, 4)",None,26,None,Rented,1,Skilled,3 or More,Yes,No
+546,1,None,30,Paid Up,Furniture,1715,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,<1 Year,Life Insurance,26,None,Rented,1,Skilled,3 or More,No,No
+547,1,Below 200 DM,10,Previous Credits Paid,Furniture,1347,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,27,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+548,1,None,12,Paid Up,Other,1007,"[500, 1000)","[1, 4)",Below 20%,Female,None,<1 Year,None,22,None,Rented,1,Skilled,3 or More,No,No
+549,1,200 DM or Above,12,Previous Credits Paid,Used Car,1402,"[100, 500)","[4, 7)","[20%, 25%)","Male, Single",None,Above 7,Life Insurance,37,None,Free,1,Skilled,3 or More,Yes,No
+550,1,None,12,Paid Up,Other,2002,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Car,30,None,Free,1,Skilled,Less than 3,Yes,No
+551,1,200 DM or Above,12,Previous Credits Paid,Repair,2096,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",None,49,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+552,1,200 DM or Above,12,Paid Up,Other,1101,None,"[1, 4)","[20%, 25%)",Female,None,"[1, 4)",None,27,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+553,1,200 DM or Above,10,Paid Up,Vacation,894,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",Car,40,None,Rented,1,Skilled,3 or More,Yes,No
+554,1,None,11,Paid Up,Used Car,1577,"[500, 1000)",<1 Year,Below 20%,"Male, Single",None,<1 Year,None,20,None,Rented,1,Skilled,3 or More,No,No
+555,1,200 DM or Above,33,No Problem with Current Credits,Retraining,2764,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,26,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+556,1,None,48,Delayed,Other,8358,"[100, 500)",<1 Year,Above 35%,"Male, Single",None,<1 Year,Life Insurance,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+557,1,Below 200 DM,12,Paid Up,Used Car,1474,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Car,33,Other Banks,Rented,1,Executive,3 or More,Yes,No
+558,1,200 DM or Above,24,Paid Up,New Car,5433,Above 1000,Unemployed,"(25%, 35%)","Male, Single",None,Above 7,Car,26,None,Free,1,Executive,3 or More,Yes,No
+559,1,None,14,Paid Up,Retraining,1410,"[100, 500)",Above 7,Above 35%,Female,None,"[1, 4)",None,35,None,Rented,1,Skilled,3 or More,Yes,No
+560,1,200 DM or Above,20,Previous Credits Paid,Other,3485,Above 1000,<1 Year,"(25%, 35%)","Male, Divorced",None,Above 7,None,44,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+561,1,200 DM or Above,18,Previous Credits Paid,New Car,3850,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,<1 Year,Life Insurance,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+562,0,None,60,Paid Up,Other,7408,Below 100 DM,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Car,24,None,Rented,1,Executive,3 or More,No,No
+563,1,Below 200 DM,24,Paid Up,Furniture,1377,Below 100 DM,Above 7,Below 20%,"Male, Single",None,"[1, 4)",Real Estate,47,None,Owned,1,Skilled,3 or More,Yes,No
+564,1,200 DM or Above,30,No Problem with Current Credits,Retraining,4272,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,26,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+565,1,None,24,No Problem with Current Credits,Furniture,1553,Below 100 DM,"[4, 7)","[20%, 25%)","Male, Single",None,"[1, 4)",Car,23,None,Free,2 or 3,Skilled,3 or More,Yes,No
+566,1,None,36,No Problem with Current Credits,Retraining,9857,Below 100 DM,"[4, 7)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",Car,31,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,Yes,No
+567,1,200 DM or Above,6,Previous Credits Paid,Other,362,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,52,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+568,1,200 DM or Above,12,Previous Credits Paid,Used Car,1935,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,43,None,Rented,4 or 5,Skilled,3 or More,Yes,No
+569,1,200 DM or Above,48,Paid Up,Furniture,10222,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,37,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+570,1,Below 200 DM,12,Paid Up,Other,1330,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,None,26,None,Rented,1,Skilled,3 or More,No,No
+571,1,200 DM or Above,36,Paid Up,Repair,9055,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,35,None,Owned,1,Unskilled Permanent Resident,Less than 3,Yes,No
+572,1,None,26,Paid Up,New Car,7966,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+573,1,None,30,Other Credits,Used Car,3496,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,34,Dept. Store,Rented,1,Skilled,Less than 3,Yes,No
+574,1,None,36,Paid Up,New Car,6948,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,35,None,Free,1,Executive,3 or More,Yes,No
+575,1,None,48,Delayed,Retraining,12204,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,48,Other Banks,Rented,1,Executive,3 or More,Yes,No
+576,0,No Account,36,Paid Up,Used Car,3446,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,42,None,Rented,1,Skilled,Less than 3,No,No
+577,0,No Account,12,Paid Up,Repair,684,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,40,None,Free,1,Unskilled Permanent Resident,Less than 3,No,No
+578,0,No Account,33,Previous Credits Paid,Used Car,4281,"[100, 500)","[1, 4)",Above 35%,"Male, Single",None,Above 7,Life Insurance,23,None,Rented,2 or 3,Skilled,3 or More,No,No
+579,0,No Account,42,Paid Up,Furniture,7174,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",Life Insurance,30,None,Rented,1,Executive,3 or More,Yes,No
+580,0,No Account,24,Other Credits,Furniture,1546,None,"[4, 7)",Below 20%,"Male, Married/Widowed",Guarantor,Above 7,Life Insurance,24,Other Banks,Free,1,Unskilled Permanent Resident,3 or More,No,No
+581,0,No Account,24,Paid Up,Used Car,2359,Below 100 DM,Unemployed,Above 35%,"Male, Divorced",None,<1 Year,Car,33,None,Rented,1,Skilled,3 or More,No,No
+582,0,200 DM or Above,24,Paid Up,Furniture,3621,Below 100 DM,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,31,None,Rented,2 or 3,Skilled,3 or More,No,No
+583,0,No Account,12,Paid Up,Radio/TV,741,Below 100 DM,Unemployed,Below 20%,"Male, Single",None,"[4, 7)",Car,22,None,Rented,1,Skilled,3 or More,No,No
+584,0,No Account,12,Paid Up,Used Car,7865,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,53,None,Owned,1,Executive,3 or More,Yes,No
+585,1,No Account,24,Paid Up,New Car,2910,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Real Estate,34,None,Owned,1,Executive,3 or More,Yes,No
+586,1,No Account,18,Previous Credits Paid,Other,5302,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,36,None,Owned,4 or 5,Executive,3 or More,Yes,No
+587,1,No Account,36,Paid Up,Used Car,3620,None,"[1, 4)",Above 35%,"Male, Married/Widowed",Guarantor,"[1, 4)",Car,37,None,Rented,1,Skilled,Less than 3,No,No
+588,1,No Account,18,Paid Up,Furniture,3509,None,"[4, 7)",Below 20%,"Male, Single",Guarantor,<1 Year,None,25,None,Rented,1,Skilled,3 or More,No,No
+589,1,None,12,Paid Up,Used Car,3017,None,<1 Year,"[20%, 25%)","Male, Single",None,<1 Year,None,34,None,Free,1,Executive,3 or More,No,No
+590,1,No Account,12,Paid Up,Used Car,1657,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,27,None,Rented,1,Skilled,3 or More,No,No
+591,1,No Account,8,Previous Credits Paid,Business,1164,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,51,Other Banks,Owned,2 or 3,Executive,Less than 3,Yes,No
+592,0,No Account,36,Previous Credits Paid,Used Car,6229,None,<1 Year,Below 20%,"Male, Single",Co-applicant,Above 7,Real Estate,23,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+593,0,No Account,24,Other Credits,Other,1193,None,Unemployed,Above 35%,"Male, Single",Co-applicant,Above 7,Real Estate,29,None,Free,2 or 3,"Unemployed, unskilled",3 or More,No,No
+594,1,No Account,30,Delayed,Used Car,4583,None,"[1, 4)","(25%, 35%)","Male, Divorced",Guarantor,"[1, 4)",None,32,None,Rented,2 or 3,Skilled,3 or More,No,No
+595,1,No Account,36,Previous Credits Paid,Used Car,5371,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",Guarantor,"[1, 4)",Car,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+596,1,No Account,12,Paid Up,Used Car,708,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Guarantor,"[4, 7)",Car,38,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+597,1,No Account,21,Previous Credits Paid,Other,571,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,65,None,Rented,2 or 3,Skilled,3 or More,No,No
+598,1,No Account,30,Paid Up,Furniture,2522,None,Above 7,Above 35%,"Male, Married/Widowed",Guarantor,"[4, 7)",Car,39,None,Rented,1,Skilled,Less than 3,No,No
+599,0,No Account,36,Paid Up,Used Car,5179,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,29,None,Rented,1,Skilled,3 or More,No,No
+600,0,No Account,36,Paid Up,New Car,8229,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,26,None,Rented,1,Skilled,Less than 3,No,No
+601,1,200 DM or Above,24,Previous Credits Paid,Used Car,2028,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,30,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+602,1,No Account,6,Paid Up,Other,1374,Above 1000,Unemployed,Below 20%,"Male, Single",None,"[4, 7)",Car,75,None,Rented,1,Executive,3 or More,Yes,No
+603,1,No Account,12,Paid Up,Used Car,1289,None,"[1, 4)",Below 20%,"Male, Married/Widowed",Guarantor,<1 Year,Car,21,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+604,0,No Account,36,Paid Up,Used Car,2712,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,41,Other Banks,Rented,1,Skilled,Less than 3,No,No
+605,1,No Account,15,Previous Credits Paid,Used Car,975,None,"[1, 4)","(25%, 35%)","Male, Divorced",None,"[4, 7)",Car,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+606,1,None,6,No Problem with Current Credits,Used Car,1050,None,Unemployed,Below 20%,"Male, Married/Widowed",None,<1 Year,Car,35,Dept. Store,Rented,2 or 3,Executive,3 or More,Yes,Yes
+607,1,No Account,6,Previous Credits Paid,Other,609,None,"[4, 7)",Below 20%,"Male, Single",None,"[4, 7)",Car,37,None,Rented,2 or 3,Skilled,3 or More,No,No
+608,1,No Account,48,Paid Up,New Car,4788,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,26,None,Rented,1,Skilled,Less than 3,No,No
+609,1,None,24,Paid Up,Used Car,3069,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,30,None,Owned,1,Skilled,3 or More,No,No
+610,0,None,12,Paid Up,Other,836,Below 100 DM,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Car,23,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+611,1,No Account,12,Paid Up,Used Car,2577,None,"[1, 4)","(25%, 35%)","Male, Divorced",None,<1 Year,Life Insurance,42,None,Rented,1,Skilled,3 or More,No,No
+612,1,No Account,12,Paid Up,Used Car,1620,None,"[1, 4)","(25%, 35%)","Male, Single",Co-applicant,"[4, 7)",Car,30,None,Rented,1,Skilled,3 or More,No,No
+613,1,No Account,15,Paid Up,Used Car,1845,None,<1 Year,Below 20%,"Male, Single",Guarantor,<1 Year,Car,46,None,Free,1,Skilled,3 or More,No,No
+614,1,No Account,24,Paid Up,New Car,6579,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,29,None,Owned,1,Executive,3 or More,Yes,No
+615,1,No Account,12,Paid Up,Other,1893,None,"[1, 4)",Below 20%,"Male, Single",Guarantor,Above 7,Car,29,None,Rented,1,Skilled,3 or More,Yes,No
+616,1,No Account,30,Previous Credits Paid,New Car,10623,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,38,None,Owned,4 or 5,Executive,Less than 3,Yes,No
+617,1,No Account,18,Paid Up,Other,2249,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,30,None,Rented,1,Executive,Less than 3,Yes,No
+618,0,No Account,30,Paid Up,Used Car,3108,None,<1 Year,"(25%, 35%)","Male, Divorced",None,Above 7,Car,31,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+619,1,None,12,Previous Credits Paid,Other,958,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",None,47,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+620,1,200 DM or Above,24,Paid Up,New Car,9277,Above 1000,"[1, 4)","(25%, 35%)","Male, Divorced",None,Above 7,Real Estate,48,None,Owned,1,Skilled,3 or More,Yes,No
+621,1,200 DM or Above,24,Previous Credits Paid,Business,6314,None,Unemployed,Below 20%,"Male, Married/Widowed",Co-applicant,"[1, 4)",Real Estate,27,Other Banks,Rented,2 or 3,Executive,3 or More,Yes,No
+622,1,No Account,12,Previous Credits Paid,New Car,1526,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,66,None,Owned,2 or 3,Executive,3 or More,No,No
+623,1,No Account,12,Paid Up,Used Car,3590,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[1, 4)",Car,29,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+624,1,No Account,24,Previous Credits Paid,New Car,6615,None,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,75,None,Owned,2 or 3,Executive,3 or More,Yes,No
+625,1,No Account,6,Previous Credits Paid,Used Car,1872,None,Unemployed,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,36,None,Owned,4 or 5,Executive,3 or More,Yes,No
+626,1,200 DM or Above,12,Paid Up,Other,2859,Above 1000,Unemployed,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,38,None,Rented,1,Executive,3 or More,Yes,No
+627,1,200 DM or Above,18,Previous Credits Paid,Furniture,1582,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,46,None,Rented,2 or 3,Skilled,3 or More,No,No
+628,1,200 DM or Above,6,Paid Up,Vacation,1238,Above 1000,Unemployed,Below 20%,"Male, Married/Widowed",None,Above 7,Car,36,None,Rented,1,Executive,Less than 3,Yes,No
+629,1,No Account,12,Paid Up,Used Car,2578,None,Unemployed,"[20%, 25%)","Male, Single",None,Above 7,Real Estate,55,None,Owned,1,Executive,3 or More,No,No
+630,1,No Account,15,Previous Credits Paid,Used Car,1433,None,"[1, 4)",Below 20%,"Male, Single",None,"[4, 7)",Car,25,None,Free,2 or 3,Skilled,3 or More,No,No
+631,1,No Account,42,Paid Up,Used Car,7882,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",Guarantor,Above 7,Car,45,None,Owned,1,Skilled,Less than 3,No,No
+632,1,No Account,24,Paid Up,Used Car,4169,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Car,28,None,Rented,1,Skilled,3 or More,No,No
+633,1,No Account,36,Paid Up,Used Car,3959,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,30,None,Rented,1,Executive,3 or More,Yes,No
+634,1,No Account,36,Paid Up,Other,3249,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,39,Other Banks,Owned,1,Executive,Less than 3,Yes,No
+635,1,No Account,24,Paid Up,Used Car,3149,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,Real Estate,22,Other Banks,Owned,1,Skilled,3 or More,No,No
+636,0,No Account,12,Previous Credits Paid,Used Car,2246,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",Car,60,None,Rented,2 or 3,Skilled,3 or More,No,No
+637,1,No Account,13,Previous Credits Paid,Retraining,1797,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,<1 Year,Car,28,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+638,1,No Account,20,Previous Credits Paid,Used Car,4272,None,Above 7,Above 35%,"Male, Single",None,Above 7,Car,24,None,Rented,2 or 3,Skilled,3 or More,No,No
+639,1,No Account,24,Previous Credits Paid,New Car,2957,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,63,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+640,1,No Account,36,Previous Credits Paid,Used Car,2348,None,"[1, 4)","[20%, 25%)",Female,None,"[1, 4)",Car,46,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+641,1,Below 200 DM,42,Delayed,Retraining,6289,None,<1 Year,"(25%, 35%)","Male, Divorced",None,<1 Year,Car,33,None,Rented,2 or 3,Skilled,3 or More,No,No
+642,1,No Account,24,Previous Credits Paid,New Car,6419,None,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,44,None,Owned,2 or 3,Executive,Less than 3,Yes,No
+643,0,No Account,48,Previous Credits Paid,New Car,6143,None,Above 7,Below 20%,"Male, Single",None,Above 7,Real Estate,58,Dept. Store,Owned,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+644,1,200 DM or Above,24,Previous Credits Paid,Repair,1597,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,54,None,Owned,2 or 3,Skilled,Less than 3,No,No
+645,1,No Account,36,Paid Up,Business,15857,None,Unemployed,"(25%, 35%)","Male, Divorced",Co-applicant,"[4, 7)",Life Insurance,43,None,Rented,1,Executive,3 or More,No,No
+646,1,200 DM or Above,24,Previous Credits Paid,Furniture,2223,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,52,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+647,1,200 DM or Above,48,No Problem with Current Credits,Furniture,7238,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[4, 7)",Life Insurance,32,Other Banks,Rented,2 or 3,Skilled,Less than 3,No,No
+648,1,None,30,No Problem with Current Credits,Retraining,2503,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,41,Dept. Store,Rented,2 or 3,Skilled,3 or More,No,No
+649,1,None,18,Paid Up,Retraining,2622,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,34,None,Rented,1,Skilled,3 or More,No,No
+650,1,None,24,Paid Up,Used Car,4351,Above 1000,"[1, 4)",Above 35%,"Male, Single",None,Above 7,Car,48,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+651,1,None,6,Paid Up,Furniture,368,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,38,None,Rented,1,Skilled,3 or More,No,No
+652,1,None,12,Paid Up,Vacation,754,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,38,None,Rented,2 or 3,Skilled,3 or More,No,No
+653,1,200 DM or Above,24,Previous Credits Paid,Furniture,2424,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,53,None,Rented,2 or 3,Skilled,3 or More,No,No
+654,1,None,48,No Problem with Current Credits,Retraining,6681,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,38,None,Owned,1,Skilled,Less than 3,Yes,No
+655,1,None,18,No Problem with Current Credits,Retraining,2427,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,42,None,Rented,2 or 3,Skilled,3 or More,No,No
+656,0,None,24,Previous Credits Paid,Furniture,1216,Below 100 DM,<1 Year,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,38,Other Banks,Rented,2 or 3,Skilled,Less than 3,No,No
+657,1,None,6,Paid Up,Furniture,753,None,"[1, 4)","(25%, 35%)","Male, Single",Guarantor,"[4, 7)",None,64,None,Rented,1,Skilled,3 or More,No,No
+658,1,None,7,Paid Up,Furniture,2576,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Guarantor,"[1, 4)",None,35,None,Rented,1,Skilled,3 or More,No,Yes
+659,1,None,6,Paid Up,Furniture,590,None,<1 Year,"[20%, 25%)",Female,None,"[4, 7)",None,26,None,Rented,1,Unskilled Permanent Resident,3 or More,No,Yes
+660,1,None,8,Paid Up,Furniture,1414,None,"[1, 4)",Below 20%,"Male, Married/Widowed",Guarantor,"[1, 4)",None,33,None,Rented,1,Skilled,3 or More,No,Yes
+661,1,None,12,Paid Up,Furniture,1103,None,"[4, 7)",Below 20%,"Male, Married/Widowed",Guarantor,"[4, 7)",None,29,None,Rented,2 or 3,Skilled,3 or More,No,No
+662,1,None,12,No Problem with Current Credits,Furniture,585,None,"[1, 4)",Below 20%,Female,Co-applicant,Above 7,None,20,None,Free,2 or 3,Skilled,3 or More,No,No
+663,1,None,6,Paid Up,Furniture,1068,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,28,None,Rented,1,Skilled,Less than 3,No,No
+664,1,No Account,8,Previous Credits Paid,Other,713,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,47,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+665,1,None,12,Paid Up,Furniture,1092,None,"[1, 4)",Below 20%,"Male, Single",Guarantor,Above 7,None,49,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+666,1,None,7,Paid Up,Furniture,2329,None,<1 Year,Above 35%,"Male, Single",Guarantor,<1 Year,None,45,None,Rented,1,Skilled,3 or More,No,No
+667,1,None,13,Previous Credits Paid,Furniture,882,None,<1 Year,Below 20%,"Male, Married/Widowed",Guarantor,Above 7,None,23,None,Rented,2 or 3,Skilled,3 or More,No,No
+668,1,None,18,Paid Up,Furniture,866,None,"[1, 4)",Below 20%,Female,Guarantor,"[1, 4)",None,25,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+669,1,None,7,Paid Up,Furniture,2415,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",Guarantor,"[1, 4)",None,34,None,Rented,1,Skilled,3 or More,No,No
+670,1,None,13,Paid Up,Furniture,2101,None,<1 Year,"(25%, 35%)","Male, Single",Guarantor,Above 7,Car,23,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+671,1,None,18,Paid Up,Furniture,1301,None,Above 7,Below 20%,Female,Guarantor,"[1, 4)",None,32,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+672,1,None,18,Paid Up,Furniture,1113,None,"[1, 4)",Below 20%,"Male, Single",Guarantor,Above 7,None,26,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+673,1,None,8,Paid Up,Furniture,760,None,"[4, 7)",Below 20%,"Male, Single",Guarantor,"[1, 4)",None,44,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+674,1,None,12,Paid Up,Furniture,625,None,<1 Year,Below 20%,Female,Guarantor,<1 Year,None,26,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+675,1,Below 200 DM,6,Previous Credits Paid,Other,1323,Below 100 DM,Above 7,"(25%, 35%)","Male, Divorced",None,Above 7,Life Insurance,28,None,Rented,2 or 3,Skilled,Less than 3,Yes,No
+676,1,No Account,9,Previous Credits Paid,Furniture,1138,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,25,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+677,1,None,18,Previous Credits Paid,Furniture,1795,None,Above 7,"[20%, 25%)","Male, Single",Guarantor,Above 7,None,48,Other Banks,Free,2 or 3,Unskilled Permanent Resident,3 or More,Yes,No
+678,1,None,15,Previous Credits Paid,Furniture,2728,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",Guarantor,"[1, 4)",None,35,Other Banks,Rented,4 or 5,Skilled,3 or More,Yes,No
+679,1,None,6,Paid Up,Furniture,484,None,"[4, 7)","[20%, 25%)",Female,Guarantor,"[4, 7)",None,28,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+680,1,None,10,Other Credits,Furniture,1048,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,None,23,Dept. Store,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+681,1,None,12,Paid Up,Furniture,1155,None,Above 7,"[20%, 25%)",Female,Guarantor,"[4, 7)",None,40,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+682,1,None,20,No Problem with Current Credits,New Car,7057,Above 1000,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Car,36,Other Banks,Free,2 or 3,Executive,Less than 3,Yes,No
+683,1,None,15,Previous Credits Paid,Furniture,1537,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",Guarantor,Above 7,None,50,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+684,1,No Account,12,Paid Up,Furniture,2214,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,24,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+685,1,200 DM or Above,24,Previous Credits Paid,Used Car,1585,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,40,None,Rented,2 or 3,Skilled,3 or More,No,No
+686,1,None,10,Paid Up,Used Car,1521,None,"[1, 4)",Below 20%,"Male, Divorced",None,"[1, 4)",Life Insurance,31,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+687,1,None,36,Other Credits,Radio/TV,3990,Above 1000,<1 Year,"[20%, 25%)","Male, Single",None,"[1, 4)",Real Estate,29,Other Banks,Rented,1,"Unemployed, unskilled",3 or More,No,No
+688,1,Below 200 DM,18,Paid Up,Used Car,3049,None,<1 Year,Above 35%,"Male, Single",None,<1 Year,Car,45,Dept. Store,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+689,0,No Account,24,Paid Up,Furniture,1282,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,32,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+690,1,200 DM or Above,60,Paid Up,Furniture,10144,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Single",None,Above 7,None,21,None,Rented,1,Skilled,3 or More,Yes,No
+691,1,No Account,12,Paid Up,Other,1168,None,"[1, 4)",Below 20%,Female,None,"[4, 7)",None,27,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+692,1,None,6,Paid Up,Appliances,454,None,<1 Year,"[20%, 25%)",Female,None,<1 Year,Car,22,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+693,1,200 DM or Above,15,No Problem with Current Credits,New Car,3594,None,<1 Year,Above 35%,"Male, Single",None,"[1, 4)",Car,46,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+694,1,200 DM or Above,12,Paid Up,Used Car,1768,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,24,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+695,1,200 DM or Above,60,No Problem with Current Credits,Furniture,15653,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,21,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+696,1,Below 200 DM,12,No Problem with Current Credits,Other,2247,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Life Insurance,36,Dept. Store,Rented,2 or 3,Skilled,3 or More,Yes,No
+697,1,200 DM or Above,24,Paid Up,Furniture,1413,None,"[1, 4)",Below 20%,Female,None,"[1, 4)",Car,28,None,Rented,1,Skilled,3 or More,No,No
+698,1,None,45,Previous Credits Paid,New Car,4576,Below 100 DM,Unemployed,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,27,None,Rented,1,Skilled,3 or More,No,No
+699,1,No Account,24,Previous Credits Paid,Furniture,1231,"[500, 1000)",Above 7,Below 20%,"Male, Single",None,Above 7,Car,57,None,Free,2 or 3,Executive,3 or More,Yes,No
+700,0,No Account,36,Paid Up,New Car,8335,Above 1000,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,47,None,Owned,1,Skilled,3 or More,No,No
+701,1,None,36,Previous Credits Paid,New Car,5800,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,34,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+702,1,No Account,18,No Problem with Current Credits,Repair,8471,Above 1000,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,23,None,Free,2 or 3,Skilled,3 or More,Yes,No
+703,1,No Account,30,Paid Up,Used Car,3622,"[500, 1000)",Above 7,Below 20%,"Male, Single",None,Above 7,Car,57,None,Free,2 or 3,Skilled,3 or More,Yes,No
+704,1,No Account,6,Previous Credits Paid,Furniture,1169,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,67,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+705,1,200 DM or Above,15,Paid Up,Radio/TV,1262,"[100, 500)","[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,36,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+706,1,Below 200 DM,24,Previous Credits Paid,Used Car,3617,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",Co-applicant,Above 7,Real Estate,20,None,Free,2 or 3,Skilled,3 or More,No,No
+707,1,None,30,Previous Credits Paid,Other,2181,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,2 or 3,Skilled,3 or More,No,No
+708,0,No Account,48,Other Credits,Retraining,7685,None,"[4, 7)","(25%, 35%)","Male, Single",Guarantor,Above 7,Life Insurance,37,None,Free,1,Skilled,3 or More,No,No
+709,1,200 DM or Above,48,Previous Credits Paid,Repair,6110,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,31,Other Banks,Owned,1,Skilled,3 or More,Yes,No
+710,1,200 DM or Above,24,Paid Up,Other,3757,None,Above 7,Below 20%,"Male, Single",Co-applicant,Above 7,Real Estate,62,None,Owned,1,Skilled,3 or More,Yes,No
+711,1,No Account,42,Previous Credits Paid,Appliances,3394,None,Unemployed,Below 20%,"Male, Married/Widowed",Co-applicant,Above 7,Life Insurance,65,None,Rented,2 or 3,"Unemployed, unskilled",3 or More,No,No
+712,1,200 DM or Above,36,Previous Credits Paid,Retraining,6304,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,2 or 3,Skilled,3 or More,No,No
+713,1,200 DM or Above,9,Previous Credits Paid,Repair,1244,Above 1000,Above 7,Below 20%,"Male, Single",None,Above 7,Car,41,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+714,1,200 DM or Above,6,Paid Up,Other,3518,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Guarantor,"[4, 7)",Car,26,None,Free,1,Skilled,3 or More,No,No
+715,1,200 DM or Above,36,Delayed,Appliances,2613,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+716,1,No Account,48,Paid Up,Repair,7476,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,<1 Year,Real Estate,50,None,Owned,1,Executive,3 or More,Yes,No
+717,0,200 DM or Above,24,Paid Up,Retraining,4591,"[500, 1000)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Car,54,None,Rented,4 or 5,Executive,3 or More,Yes,No
+718,0,None,18,Paid Up,Used Car,1924,Above 1000,<1 Year,Below 20%,"Male, Single",None,"[4, 7)",None,27,None,Free,1,Skilled,3 or More,No,No
+719,0,None,72,Paid Up,Furniture,5595,Below 100 DM,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Life Insurance,24,None,Rented,1,Skilled,3 or More,No,No
+720,0,None,48,No Problem with Current Credits,Repair,6224,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,50,None,Owned,1,Skilled,3 or More,No,No
+721,1,Below 200 DM,15,Paid Up,Repair,1905,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,40,None,Free,1,Executive,3 or More,Yes,No
+722,1,200 DM or Above,21,No Problem with Current Credits,New Car,2993,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",None,28,Dept. Store,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+723,1,200 DM or Above,36,No Problem with Current Credits,New Car,8947,Above 1000,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,31,Dept. Store,Rented,1,Executive,Less than 3,Yes,No
+724,1,No Account,24,Paid Up,Used Car,4020,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,Dept. Store,Rented,1,Skilled,3 or More,No,No
+725,1,None,18,Paid Up,New Car,2779,None,"[1, 4)",Above 35%,Female,None,"[4, 7)",Life Insurance,21,None,Free,1,Skilled,3 or More,Yes,No
+726,1,200 DM or Above,21,Paid Up,Other,2782,"[100, 500)","[4, 7)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,31,Other Banks,Rented,1,Executive,3 or More,No,No
+727,1,200 DM or Above,12,Paid Up,Other,1884,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,39,None,Rented,1,Executive,3 or More,Yes,No
+728,1,200 DM or Above,36,Previous Credits Paid,New Car,11054,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,1,Executive,3 or More,Yes,No
+729,1,None,60,No Problem with Current Credits,Furniture,9157,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,27,None,Owned,1,Executive,3 or More,No,No
+730,1,None,42,Other Credits,New Car,9283,None,Unemployed,Above 35%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,55,Other Banks,Owned,1,Executive,3 or More,Yes,No
+731,1,200 DM or Above,60,Paid Up,Other,6527,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,34,None,Owned,1,Skilled,Less than 3,Yes,No
+732,1,200 DM or Above,15,Previous Credits Paid,New Car,3368,"[500, 1000)",Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,23,None,Free,2 or 3,Skilled,3 or More,Yes,No
+733,1,No Account,15,Paid Up,Other,2511,None,Unemployed,Above 35%,"Male, Single",None,Above 7,Life Insurance,23,None,Free,1,Skilled,3 or More,No,No
+734,1,No Account,36,Paid Up,New Car,5493,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,42,None,Owned,1,Skilled,Less than 3,No,No
+735,1,200 DM or Above,6,Paid Up,Radio/TV,1338,"[100, 500)","[1, 4)",Above 35%,"Male, Divorced",None,Above 7,None,62,None,Rented,1,Skilled,3 or More,No,No
+736,1,None,9,Paid Up,Furniture,1082,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,37,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+737,1,200 DM or Above,18,Previous Credits Paid,Furniture,1149,"[500, 1000)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",None,46,None,Rented,2 or 3,Skilled,3 or More,No,No
+738,1,None,15,Paid Up,Appliances,1308,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,38,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+739,1,None,20,Delayed,New Car,6148,Below 100 DM,Above 7,"[20%, 25%)",Female,None,Above 7,Life Insurance,31,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+740,1,200 DM or Above,12,Paid Up,Used Car,1736,None,"[4, 7)","[20%, 25%)","Male, Single",None,Above 7,None,31,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+741,1,200 DM or Above,12,Paid Up,Furniture,3059,"[500, 1000)","[4, 7)","(25%, 35%)","Male, Divorced",None,Above 7,None,61,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+742,0,No Account,24,Paid Up,Used Car,2996,Above 1000,"[1, 4)","(25%, 35%)",Female,None,Above 7,Life Insurance,20,None,Rented,1,Skilled,3 or More,No,No
+743,1,200 DM or Above,30,Previous Credits Paid,New Car,7596,Above 1000,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Life Insurance,63,None,Rented,2 or 3,Skilled,3 or More,No,No
+744,1,200 DM or Above,30,Paid Up,New Car,4811,Above 1000,"[4, 7)","(25%, 35%)","Male, Single",None,Above 7,Car,24,Dept. Store,Free,1,Unskilled Permanent Resident,3 or More,No,No
+745,1,200 DM or Above,6,Paid Up,Used Car,1766,None,"[1, 4)",Above 35%,Female,None,"[1, 4)",Car,21,None,Free,1,Skilled,3 or More,No,No
+746,1,None,24,Paid Up,New Car,2760,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,36,Other Banks,Owned,1,Skilled,3 or More,Yes,No
+747,1,200 DM or Above,24,Previous Credits Paid,Appliances,5507,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,44,None,Owned,2 or 3,Skilled,3 or More,No,No
+748,1,None,9,Paid Up,Repair,1199,None,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Car,67,None,Rented,2 or 3,Executive,3 or More,Yes,No
+749,1,Below 200 DM,24,Paid Up,Used Car,2892,None,Above 7,"[20%, 25%)","Male, Divorced",None,Above 7,Real Estate,51,None,Owned,1,Skilled,3 or More,No,No
+750,1,None,36,No Problem with Current Credits,Other,2862,Below 100 DM,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,30,None,Owned,1,Skilled,3 or More,No,No
+751,0,No Account,9,Paid Up,Other,654,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,28,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+752,0,None,9,Previous Credits Paid,Repair,1136,"[500, 1000)",Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,32,None,Owned,2 or 3,Skilled,Less than 3,No,No
+753,0,None,24,Paid Up,New Car,4113,"[100, 500)",<1 Year,"[20%, 25%)","Male, Single",None,Above 7,Life Insurance,28,None,Free,1,Skilled,3 or More,No,No
+754,0,None,6,Paid Up,Other,14555,Above 1000,Unemployed,Above 35%,"Male, Married/Widowed",None,"[1, 4)",Car,23,None,Rented,1,"Unemployed, unskilled",3 or More,Yes,No
+755,0,No Account,15,Delayed,Other,950,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,33,None,Free,2 or 3,Skilled,Less than 3,No,No
+756,0,No Account,24,Previous Credits Paid,Other,1199,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,60,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+757,0,No Account,12,Delayed,Other,1082,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,48,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+758,0,None,30,Paid Up,Other,2150,None,"[1, 4)",Below 20%,"Male, Single",Guarantor,"[1, 4)",Real Estate,24,Other Banks,Rented,1,Skilled,3 or More,No,No
+759,0,None,36,Previous Credits Paid,Other,2820,None,<1 Year,Below 20%,"Male, Divorced",None,Above 7,Life Insurance,27,None,Rented,2 or 3,Skilled,3 or More,No,No
+760,0,None,48,Paid Up,Furniture,3060,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,None,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+761,0,No Account,18,Paid Up,Furniture,2600,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,65,None,Owned,2 or 3,Skilled,3 or More,No,No
+762,0,200 DM or Above,21,Delayed,Other,5003,Above 1000,"[1, 4)",Above 35%,"Male, Single",None,Above 7,Car,29,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+763,0,None,60,Paid Up,Repair,6288,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,42,None,Owned,1,Skilled,3 or More,No,No
+764,0,200 DM or Above,24,No Problem with Current Credits,Other,2538,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,47,None,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+765,0,200 DM or Above,9,Paid Up,Furniture,1478,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,22,None,Rented,1,Skilled,3 or More,No,No
+766,0,None,39,Previous Credits Paid,Furniture,4933,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",Guarantor,"[1, 4)",None,25,None,Rented,2 or 3,Skilled,3 or More,No,No
+767,0,200 DM or Above,18,Previous Credits Paid,Other,1530,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,32,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+768,0,None,9,Other Credits,Other,1437,Below 100 DM,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[4, 7)",Real Estate,29,None,Rented,1,Skilled,3 or More,No,No
+769,0,No Account,15,Paid Up,Radio/TV,1275,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,24,None,Free,1,Skilled,3 or More,No,No
+770,0,No Account,24,Paid Up,Furniture,1823,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,Dept. Store,Rented,1,Executive,Less than 3,No,No
+771,0,No Account,9,Paid Up,Other,1422,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,27,None,Owned,1,Executive,3 or More,Yes,No
+772,0,No Account,18,Paid Up,Radio/TV,1217,None,"[1, 4)",Below 20%,Female,None,"[4, 7)",None,47,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+773,0,No Account,36,Paid Up,Other,9271,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Life Insurance,24,None,Rented,1,Skilled,3 or More,Yes,No
+774,0,No Account,36,No Problem with Current Credits,Retraining,2145,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,Life Insurance,24,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+775,0,No Account,36,Paid Up,Other,1842,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Life Insurance,34,None,Rented,1,Skilled,3 or More,Yes,No
+776,0,None,18,No Problem with Current Credits,Used Car,4297,None,Above 7,Below 20%,"Male, Divorced",None,"[4, 7)",Real Estate,40,None,Rented,1,Executive,3 or More,Yes,No
+777,0,No Account,6,Previous Credits Paid,Used Car,3384,None,"[1, 4)",Above 35%,"Male, Divorced",None,Above 7,None,44,None,Free,1,Executive,3 or More,Yes,No
+778,0,None,18,Previous Credits Paid,Furniture,1245,None,"[1, 4)",Below 20%,Female,None,"[1, 4)",Life Insurance,33,None,Rented,1,Skilled,3 or More,No,No
+779,0,200 DM or Above,15,Paid Up,Repair,4623,Below 100 DM,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,40,None,Rented,1,Executive,3 or More,Yes,No
+780,0,None,30,Previous Credits Paid,Used Car,8386,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,49,None,Rented,1,Skilled,3 or More,No,No
+781,0,No Account,24,No Problem with Current Credits,Furniture,1024,None,<1 Year,Below 20%,Female,None,Above 7,None,48,Dept. Store,Rented,1,Skilled,3 or More,No,No
+782,0,None,36,Paid Up,Other,14318,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,57,None,Owned,1,Executive,3 or More,Yes,No
+783,0,None,6,Other Credits,Repair,433,"[500, 1000)",<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Car,24,Other Banks,Free,1,Skilled,Less than 3,No,No
+784,0,No Account,12,Other Credits,Furniture,2149,None,"[1, 4)",Below 20%,"Male, Divorced",None,<1 Year,Real Estate,29,None,Owned,1,Skilled,3 or More,No,No
+785,0,200 DM or Above,24,Paid Up,Furniture,2397,"[100, 500)",Above 7,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,35,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+786,0,None,6,Other Credits,Other,931,Below 100 DM,<1 Year,Above 35%,"Male, Single",None,<1 Year,Car,32,Dept. Store,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+787,0,None,15,No Problem with Current Credits,Appliances,1512,"[500, 1000)","[1, 4)","[20%, 25%)",Female,None,"[4, 7)",Car,61,Dept. Store,Rented,2 or 3,Skilled,3 or More,No,No
+788,0,None,24,Delayed,Retraining,4241,None,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,None,36,None,Rented,4 or 5,Unskilled Permanent Resident,3 or More,Yes,No
+789,0,None,24,Previous Credits Paid,Used Car,4736,None,<1 Year,"(25%, 35%)","Male, Single",None,Above 7,Life Insurance,25,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+790,0,None,15,Delayed,Other,1778,None,<1 Year,"(25%, 35%)","Male, Single",None,<1 Year,None,26,None,Free,2 or 3,"Unemployed, unskilled",3 or More,No,No
+791,0,Below 200 DM,15,Paid Up,Furniture,2327,None,<1 Year,"(25%, 35%)","Male, Single",None,"[4, 7)",None,25,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+792,0,No Account,24,Other Credits,Used Car,6872,None,<1 Year,"(25%, 35%)","Male, Divorced",None,<1 Year,Car,55,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+793,0,No Account,12,Paid Up,Repair,795,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,53,None,Rented,1,Skilled,3 or More,No,No
+794,0,Below 200 DM,30,No Problem with Current Credits,Retraining,1908,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,66,None,Rented,1,Executive,3 or More,Yes,No
+795,0,None,36,Delayed,Retraining,1953,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,61,None,Owned,1,Executive,3 or More,Yes,No
+796,0,Below 200 DM,18,Paid Up,Used Car,2864,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,<1 Year,None,34,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+797,0,Below 200 DM,21,Previous Credits Paid,Repair,2319,None,<1 Year,"(25%, 35%)","Male, Divorced",None,<1 Year,Life Insurance,33,None,Free,1,Skilled,3 or More,No,No
+798,0,No Account,24,Paid Up,Other,915,Above 1000,Above 7,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,29,Other Banks,Rented,1,Skilled,3 or More,No,No
+799,0,Below 200 DM,24,Paid Up,Other,947,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,38,Other Banks,Owned,1,Skilled,Less than 3,No,No
+800,0,No Account,24,Paid Up,Other,1381,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Car,35,None,Rented,1,Skilled,3 or More,No,No
+801,0,No Account,24,Paid Up,Other,1285,Above 1000,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Real Estate,32,None,Free,1,Skilled,3 or More,No,No
+802,0,No Account,24,Paid Up,Other,1371,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,Above 7,None,25,None,Free,1,Skilled,3 or More,No,No
+803,0,None,18,Paid Up,Other,1042,Above 1000,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",Car,33,None,Rented,1,Skilled,3 or More,No,No
+804,0,No Account,12,Paid Up,Other,900,Above 1000,"[1, 4)",Below 20%,Female,None,"[1, 4)",Life Insurance,23,None,Rented,1,Skilled,3 or More,No,No
+805,0,No Account,24,Paid Up,Other,1207,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,24,None,Free,1,Skilled,3 or More,No,No
+806,0,None,18,Delayed,Other,2278,Below 100 DM,<1 Year,"[20%, 25%)","Male, Single",None,"[4, 7)",Life Insurance,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+807,0,No Account,60,No Problem with Current Credits,Retraining,6836,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,63,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+808,0,No Account,24,Paid Up,Used Car,3345,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,39,None,Free,1,Executive,3 or More,Yes,No
+809,0,No Account,6,Other Credits,Repair,1198,None,Above 7,Below 20%,"Male, Single",None,Above 7,Real Estate,35,None,Owned,1,Skilled,3 or More,No,No
+810,0,None,48,Paid Up,Retraining,15672,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,23,None,Rented,1,Skilled,3 or More,Yes,No
+811,0,No Account,60,Paid Up,Retraining,7297,None,Above 7,Below 20%,"Male, Married/Widowed",Co-applicant,Above 7,Real Estate,36,None,Free,1,Skilled,3 or More,No,No
+812,0,200 DM or Above,18,Paid Up,Appliances,1943,None,<1 Year,Below 20%,"Male, Single",None,Above 7,None,23,None,Rented,1,Skilled,3 or More,No,No
+813,0,No Account,18,Paid Up,Furniture,3190,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",None,24,None,Rented,1,Skilled,3 or More,No,No
+814,0,None,9,Other Credits,New Car,5129,None,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,74,Other Banks,Owned,1,Executive,Less than 3,Yes,No
+815,0,200 DM or Above,18,No Problem with Current Credits,Used Car,1808,None,"[4, 7)",Below 20%,"Male, Single",None,<1 Year,None,22,None,Rented,1,Skilled,3 or More,No,No
+816,0,Below 200 DM,10,Paid Up,Other,1240,Below 100 DM,Above 7,Above 35%,"Male, Single",None,Above 7,Real Estate,48,None,Owned,1,Unskilled Permanent Resident,Less than 3,No,No
+817,0,No Account,12,Paid Up,Other,759,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,26,None,Rented,1,Skilled,3 or More,No,No
+818,0,None,8,Paid Up,Used Car,1237,None,"[1, 4)","[20%, 25%)","Male, Single",None,Above 7,None,24,None,Rented,1,Skilled,3 or More,No,No
+819,0,200 DM or Above,9,Paid Up,Used Car,1980,None,<1 Year,"(25%, 35%)","Male, Single",Co-applicant,"[1, 4)",Life Insurance,19,None,Free,2 or 3,Skilled,3 or More,No,No
+820,0,None,48,Paid Up,Furniture,10961,"[500, 1000)","[4, 7)",Above 35%,"Male, Married/Widowed",Co-applicant,"[1, 4)",Real Estate,27,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+821,0,No Account,36,No Problem with Current Credits,Repair,6887,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,29,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+822,0,No Account,24,Paid Up,Furniture,1938,None,<1 Year,Below 20%,"Male, Divorced",None,"[4, 7)",Car,32,None,Rented,1,Skilled,3 or More,No,No
+823,0,No Account,21,Paid Up,Furniture,1835,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",None,25,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+824,0,No Account,24,No Problem with Current Credits,Furniture,1659,None,<1 Year,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,29,None,Free,1,Unskilled Permanent Resident,3 or More,Yes,No
+825,0,None,6,No Problem with Current Credits,Other,1209,None,Unemployed,Below 20%,"Male, Married/Widowed",None,Above 7,Car,47,None,Rented,1,Executive,3 or More,Yes,No
+826,0,None,48,Delayed,Retraining,3844,Below 100 DM,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,34,None,Owned,1,Unskilled Permanent Resident,Less than 3,No,No
+827,0,No Account,12,Previous Credits Paid,Other,4843,None,Above 7,"[20%, 25%)","Male, Married/Widowed",Co-applicant,Above 7,Car,43,None,Free,2 or 3,Skilled,3 or More,Yes,No
+828,0,None,12,Paid Up,Appliances,639,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,30,None,Rented,1,Skilled,3 or More,No,No
+829,0,None,48,Paid Up,Furniture,5951,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",None,22,None,Rented,1,Skilled,3 or More,No,No
+830,0,None,36,Delayed,Furniture,3804,None,"[1, 4)",Below 20%,"Male, Single",None,<1 Year,Life Insurance,42,None,Rented,1,Skilled,3 or More,Yes,No
+831,0,200 DM or Above,36,No Problem with Current Credits,Furniture,4463,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,26,None,Rented,2 or 3,Executive,3 or More,Yes,No
+832,0,200 DM or Above,36,No Problem with Current Credits,Retraining,7980,Above 1000,<1 Year,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,27,None,Free,2 or 3,Skilled,3 or More,Yes,No
+833,0,Below 200 DM,36,Paid Up,Furniture,4210,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,26,None,Rented,1,Skilled,3 or More,No,No
+834,0,200 DM or Above,6,Paid Up,Used Car,4611,None,<1 Year,Above 35%,"Male, Single",None,Above 7,Car,32,None,Rented,1,Skilled,3 or More,No,No
+835,0,None,24,Paid Up,New Car,11560,None,"[1, 4)",Above 35%,"Male, Single",None,Above 7,Life Insurance,23,None,Free,2 or 3,Executive,3 or More,No,No
+836,0,200 DM or Above,18,Delayed,Retraining,4165,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,36,Dept. Store,Rented,2 or 3,Skilled,Less than 3,No,No
+837,0,None,24,Paid Up,Used Car,4057,None,"[4, 7)","[20%, 25%)","Male, Divorced",None,"[4, 7)",Life Insurance,43,None,Rented,1,Skilled,3 or More,Yes,No
+838,0,200 DM or Above,18,Other Credits,Other,6458,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Real Estate,39,Other Banks,Rented,2 or 3,Executive,Less than 3,Yes,No
+839,0,200 DM or Above,12,Paid Up,Other,1386,"[100, 500)","[1, 4)","(25%, 35%)","Male, Single",None,"[1, 4)",Car,26,None,Rented,1,Skilled,3 or More,No,No
+840,0,No Account,36,Paid Up,Repair,1977,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,40,None,Rented,1,Executive,3 or More,Yes,No
+841,0,None,18,Previous Credits Paid,Used Car,1928,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,31,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+842,0,200 DM or Above,12,Paid Up,Used Car,1123,"[100, 500)","[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,29,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+843,0,None,24,Paid Up,Business,11328,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[4, 7)",Life Insurance,29,Other Banks,Rented,2 or 3,Executive,3 or More,Yes,No
+844,0,None,24,Previous Credits Paid,Business,11938,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[4, 7)",Life Insurance,39,None,Rented,2 or 3,Executive,Less than 3,Yes,No
+845,0,None,27,Previous Credits Paid,Furniture,2520,"[100, 500)","[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,23,None,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+846,0,None,30,No Problem with Current Credits,Furniture,1919,Below 100 DM,<1 Year,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,30,Dept. Store,Rented,2 or 3,Executive,3 or More,No,No
+847,0,None,60,Other Credits,Business,14782,Below 100 DM,Above 7,"[20%, 25%)","Male, Single",None,Above 7,Real Estate,60,Other Banks,Owned,2 or 3,Executive,3 or More,Yes,No
+848,0,None,36,Paid Up,Furniture,2671,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",Co-applicant,Above 7,Real Estate,50,None,Owned,1,Skilled,3 or More,No,No
+849,0,None,36,Paid Up,Repair,12612,Below 100 DM,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,Real Estate,47,None,Owned,1,Skilled,Less than 3,Yes,No
+850,0,None,45,Paid Up,Furniture,3031,Below 100 DM,"[1, 4)",Below 20%,"Male, Married/Widowed",Guarantor,Above 7,Car,21,None,Free,1,Skilled,3 or More,No,No
+851,0,No Account,12,Other Credits,Furniture,626,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,None,24,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+852,0,None,24,Previous Credits Paid,Retraining,1935,None,Above 7,Below 20%,"Male, Divorced",None,Above 7,None,31,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+853,0,Below 200 DM,24,Previous Credits Paid,Other,1344,Above 1000,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,37,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+854,0,200 DM or Above,18,Paid Up,Used Car,1533,None,<1 Year,Below 20%,Female,Co-applicant,<1 Year,Car,43,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+855,0,No Account,48,Paid Up,Other,3931,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,46,None,Owned,1,Skilled,Less than 3,No,No
+856,0,No Account,24,Other Credits,Used Car,3349,"[100, 500)",<1 Year,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,30,None,Owned,1,Skilled,Less than 3,Yes,No
+857,0,No Account,36,Paid Up,Furniture,2302,None,"[1, 4)",Below 20%,"Male, Divorced",None,Above 7,Life Insurance,31,None,Free,1,Skilled,3 or More,No,No
+858,0,No Account,42,Paid Up,Furniture,3965,None,<1 Year,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,34,None,Rented,1,Skilled,3 or More,No,No
+859,0,No Account,12,Paid Up,Furniture,727,Below 100 DM,<1 Year,Below 20%,Female,None,"[4, 7)",Real Estate,33,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+860,0,200 DM or Above,48,Paid Up,Retraining,3914,Above 1000,"[1, 4)",Below 20%,"Male, Divorced",None,"[1, 4)",None,38,Other Banks,Rented,1,Skilled,3 or More,No,No
+861,0,No Account,48,Paid Up,Retraining,4308,None,<1 Year,"[20%, 25%)","Male, Single",None,Above 7,Car,24,None,Free,1,Skilled,3 or More,No,No
+862,0,None,12,Paid Up,Furniture,1534,None,<1 Year,Above 35%,Female,None,<1 Year,None,23,None,Free,1,Skilled,3 or More,No,No
+863,0,200 DM or Above,18,Previous Credits Paid,Other,2775,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Car,31,Other Banks,Rented,2 or 3,Skilled,3 or More,No,No
+864,0,No Account,40,Previous Credits Paid,Repair,5998,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Real Estate,27,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+865,0,Below 200 DM,15,Previous Credits Paid,Furniture,1271,Above 1000,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,39,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+866,0,None,12,Paid Up,Other,1295,None,<1 Year,"[20%, 25%)","Male, Single",None,<1 Year,Life Insurance,25,None,Free,1,Skilled,3 or More,No,No
+867,0,None,36,Paid Up,New Car,9398,None,<1 Year,Above 35%,Female,None,Above 7,Life Insurance,28,None,Free,1,Executive,3 or More,Yes,No
+868,0,None,12,Paid Up,Used Car,951,Below 100 DM,<1 Year,Below 20%,"Male, Single",None,Above 7,Life Insurance,27,Other Banks,Free,Above 6,Skilled,3 or More,No,No
+869,0,None,24,Paid Up,Other,1355,None,<1 Year,"[20%, 25%)","Male, Single",None,Above 7,Life Insurance,25,None,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+870,0,No Account,48,Paid Up,Radio/TV,3051,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,54,None,Rented,1,Skilled,3 or More,No,No
+871,0,200 DM or Above,36,Previous Credits Paid,Other,7855,None,"[1, 4)",Below 20%,"Male, Single",None,"[1, 4)",None,25,Dept. Store,Rented,2 or 3,Skilled,3 or More,Yes,No
+872,0,200 DM or Above,18,Paid Up,Furniture,433,None,Unemployed,"[20%, 25%)","Male, Single",Co-applicant,Above 7,None,22,None,Free,1,Skilled,3 or More,No,No
+873,0,200 DM or Above,36,No Problem with Current Credits,Retraining,9572,None,<1 Year,Above 35%,"Male, Divorced",None,<1 Year,Life Insurance,28,None,Rented,2 or 3,Skilled,3 or More,No,No
+874,0,None,24,Other Credits,Repair,1837,None,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Real Estate,34,Other Banks,Owned,1,Unskilled Permanent Resident,3 or More,No,No
+875,0,None,30,Previous Credits Paid,Other,4249,None,Unemployed,Below 20%,Female,None,"[1, 4)",Life Insurance,28,None,Rented,2 or 3,Executive,3 or More,No,No
+876,0,None,30,Previous Credits Paid,Other,5234,None,Unemployed,Below 20%,Female,None,"[1, 4)",Life Insurance,28,None,Rented,2 or 3,Executive,3 or More,No,No
+877,0,No Account,48,Paid Up,Furniture,6758,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",Life Insurance,31,None,Rented,1,Skilled,3 or More,Yes,No
+878,0,No Account,9,Paid Up,Furniture,1366,None,<1 Year,"[20%, 25%)","Male, Single",None,Above 7,Car,22,None,Free,1,Skilled,3 or More,No,No
+879,0,No Account,24,Other Credits,Business,1358,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,40,Dept. Store,Rented,1,Executive,3 or More,Yes,No
+880,0,No Account,18,Paid Up,Used Car,2473,None,Unemployed,Below 20%,"Male, Married/Widowed",None,<1 Year,Life Insurance,25,None,Rented,1,"Unemployed, unskilled",3 or More,No,No
+881,0,Below 200 DM,9,Delayed,Furniture,1337,None,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,34,None,Rented,2 or 3,Executive,3 or More,Yes,No
+882,0,No Account,48,Paid Up,Other,7763,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,42,Other Banks,Owned,1,Executive,3 or More,No,No
+883,0,None,15,Other Credits,Other,1264,Below 100 DM,"[1, 4)","(25%, 35%)",Female,None,"[1, 4)",Car,25,None,Free,1,Skilled,3 or More,No,No
+884,0,None,15,Paid Up,Other,2631,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,28,None,Free,2 or 3,Skilled,3 or More,Yes,No
+885,0,None,48,Paid Up,Other,6560,Below 100 DM,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,24,None,Rented,1,Skilled,3 or More,No,No
+886,0,No Account,24,Paid Up,Other,3123,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,Car,27,None,Rented,1,Skilled,3 or More,No,No
+887,0,No Account,36,Previous Credits Paid,Repair,8065,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[1, 4)",Real Estate,25,None,Rented,2 or 3,Executive,3 or More,Yes,No
+888,0,No Account,24,Paid Up,Furniture,2439,None,<1 Year,Below 20%,"Male, Single",None,Above 7,None,35,None,Rented,1,Skilled,3 or More,Yes,No
+889,0,None,36,Paid Up,Used Car,9034,Below 100 DM,<1 Year,Below 20%,"Male, Married/Widowed",Co-applicant,<1 Year,Real Estate,29,None,Free,1,Executive,3 or More,Yes,No
+890,0,None,60,Paid Up,Other,14027,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Real Estate,27,None,Rented,1,Executive,3 or More,Yes,No
+891,0,No Account,36,Previous Credits Paid,New Car,9629,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,24,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+892,0,None,12,Paid Up,Furniture,1484,Above 1000,"[1, 4)","(25%, 35%)",Female,None,<1 Year,None,25,None,Rented,1,Skilled,3 or More,Yes,No
+893,0,No Account,18,Paid Up,Used Car,1131,None,Unemployed,Below 20%,"Male, Single",None,"[1, 4)",Life Insurance,33,None,Rented,1,Skilled,3 or More,No,No
+894,0,None,24,No Problem with Current Credits,Used Car,2064,None,Unemployed,"[20%, 25%)","Male, Single",None,"[1, 4)",Car,34,None,Rented,1,Executive,3 or More,Yes,No
+895,0,None,18,Paid Up,New Car,12976,None,Unemployed,"[20%, 25%)","Male, Single",None,Above 7,Real Estate,38,None,Owned,1,Executive,3 or More,Yes,No
+896,0,200 DM or Above,21,No Problem with Current Credits,Retraining,2580,"[100, 500)",<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,41,Other Banks,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+897,0,200 DM or Above,27,Paid Up,Other,2570,None,"[1, 4)","[20%, 25%)","Male, Single",None,"[4, 7)",None,21,None,Free,1,Skilled,3 or More,No,No
+898,0,None,27,Paid Up,Retraining,3915,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,36,None,Rented,1,Skilled,Less than 3,Yes,No
+899,0,200 DM or Above,10,Paid Up,Other,1309,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",Guarantor,Above 7,Car,27,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+900,0,No Account,24,Paid Up,Other,4817,None,"[4, 7)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[4, 7)",Car,31,None,Rented,1,Skilled,3 or More,Yes,No
+901,0,No Account,12,Paid Up,Other,2579,None,<1 Year,Below 20%,"Male, Married/Widowed",None,<1 Year,None,33,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+902,0,None,36,No Problem with Current Credits,Other,2225,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,57,Other Banks,Owned,2 or 3,Skilled,3 or More,Yes,No
+903,0,No Account,18,Paid Up,Used Car,4153,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",Co-applicant,"[4, 7)",Life Insurance,42,None,Rented,1,Skilled,3 or More,No,No
+904,0,No Account,18,Delayed,Used Car,3114,None,<1 Year,Above 35%,"Male, Single",None,Above 7,Car,26,None,Free,1,Skilled,3 or More,No,No
+905,0,No Account,18,Previous Credits Paid,Used Car,2124,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,None,24,None,Free,2 or 3,Skilled,3 or More,No,No
+906,0,No Account,18,Other Credits,Used Car,1553,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,44,Other Banks,Rented,1,Skilled,3 or More,No,No
+907,0,No Account,30,Paid Up,Used Car,2406,None,"[4, 7)",Below 20%,"Male, Single",None,Above 7,None,23,None,Free,1,Skilled,3 or More,No,No
+908,0,No Account,24,No Problem with Current Credits,Other,1333,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,43,None,Owned,2 or 3,Skilled,Less than 3,No,No
+909,0,No Account,48,Delayed,Used Car,7119,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,53,None,Owned,2 or 3,Skilled,Less than 3,No,No
+910,0,No Account,24,No Problem with Current Credits,Other,4870,None,"[1, 4)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,53,None,Owned,2 or 3,Skilled,Less than 3,No,No
+911,0,No Account,12,Previous Credits Paid,Other,691,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Car,35,None,Rented,2 or 3,Skilled,3 or More,No,No
+912,0,No Account,42,No Problem with Current Credits,Furniture,4370,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Car,26,Other Banks,Rented,2 or 3,Skilled,Less than 3,Yes,No
+913,0,No Account,36,Other Credits,Used Car,2746,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,31,Other Banks,Rented,1,Skilled,3 or More,No,No
+914,0,No Account,24,Delayed,Used Car,4110,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,23,Other Banks,Free,2 or 3,Skilled,Less than 3,No,No
+915,0,No Account,18,Paid Up,Used Car,2462,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,22,None,Rented,1,Skilled,3 or More,No,No
+916,0,No Account,12,Paid Up,Used Car,1282,None,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,20,None,Free,1,Skilled,3 or More,No,No
+917,0,None,12,Delayed,Used Car,2969,None,<1 Year,Below 20%,"Male, Single",None,"[4, 7)",Car,25,None,Free,2 or 3,Skilled,3 or More,No,No
+918,0,No Account,48,Delayed,New Car,4605,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,24,None,Owned,2 or 3,Skilled,Less than 3,No,No
+919,0,No Account,48,Previous Credits Paid,New Car,6331,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,46,None,Owned,2 or 3,Skilled,3 or More,Yes,No
+920,0,No Account,24,Other Credits,Used Car,3552,None,"[4, 7)","[20%, 25%)","Male, Married/Widowed",None,Above 7,Life Insurance,27,Other Banks,Rented,1,Skilled,3 or More,No,No
+921,0,No Account,12,Other Credits,Other,697,None,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,46,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+922,0,No Account,24,Paid Up,Other,1442,None,"[4, 7)",Below 20%,"Male, Single",None,Above 7,Life Insurance,23,None,Free,2 or 3,Skilled,3 or More,No,No
+923,0,No Account,27,Delayed,Retraining,5293,None,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Car,50,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+924,0,No Account,21,No Problem with Current Credits,Repair,3414,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Car,26,Dept. Store,Rented,2 or 3,Skilled,3 or More,No,No
+925,0,No Account,18,Paid Up,Used Car,2039,None,"[1, 4)",Above 35%,"Male, Single",None,Above 7,None,20,None,Free,1,Skilled,3 or More,No,No
+926,0,No Account,24,Other Credits,Retraining,3161,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,31,Other Banks,Free,1,Skilled,3 or More,Yes,No
+927,0,No Account,12,Paid Up,Vacation,902,None,"[4, 7)",Below 20%,Female,None,Above 7,Car,21,None,Free,1,Skilled,3 or More,No,No
+928,0,No Account,48,Paid Up,New Car,10297,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,39,None,Owned,4 or 5,Skilled,Less than 3,Yes,No
+929,0,None,48,Delayed,Retraining,14421,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,25,Dept. Store,Rented,1,Skilled,3 or More,Yes,No
+930,0,None,18,Previous Credits Paid,Other,1056,None,Above 7,"[20%, 25%)","Male, Married/Widowed",Guarantor,"[4, 7)",None,30,None,Rented,2 or 3,Skilled,3 or More,No,No
+931,0,No Account,12,Paid Up,Other,1274,None,<1 Year,"[20%, 25%)","Male, Single",None,<1 Year,None,37,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+932,0,None,12,Paid Up,Other,1223,None,Above 7,Above 35%,"Male, Divorced",None,<1 Year,None,46,None,Free,2 or 3,Skilled,3 or More,No,No
+933,0,No Account,12,Paid Up,Other,1372,None,"[4, 7)","(25%, 35%)","Male, Divorced",None,"[4, 7)",Life Insurance,36,None,Rented,1,Skilled,3 or More,No,No
+934,0,No Account,16,Previous Credits Paid,Other,2625,None,Above 7,"(25%, 35%)","Male, Married/Widowed",Guarantor,Above 7,Car,43,None,Free,1,Skilled,3 or More,Yes,Yes
+935,0,No Account,20,Previous Credits Paid,Other,2235,None,"[1, 4)",Below 20%,Female,Guarantor,"[1, 4)",Car,33,Other Banks,Free,2 or 3,Skilled,3 or More,No,Yes
+936,0,None,9,Paid Up,Used Car,959,None,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,29,Other Banks,Rented,1,Skilled,3 or More,No,No
+937,0,None,18,Previous Credits Paid,Other,884,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,36,None,Rented,1,Skilled,Less than 3,Yes,No
+938,0,None,24,Paid Up,Other,1246,None,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",None,23,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+939,0,None,36,No Problem with Current Credits,Other,8086,Below 100 DM,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,42,Dept. Store,Rented,Above 6,Executive,3 or More,Yes,No
+940,0,200 DM or Above,48,Previous Credits Paid,Other,10127,"[100, 500)","[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Real Estate,44,None,Owned,1,Skilled,3 or More,No,No
+941,0,None,12,Paid Up,Other,888,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,41,Other Banks,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+942,0,200 DM or Above,12,Paid Up,Repair,719,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Life Insurance,41,Other Banks,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+943,0,None,36,Paid Up,Other,12389,Above 1000,"[1, 4)",Above 35%,"Male, Married/Widowed",None,Above 7,Real Estate,37,Other Banks,Owned,1,Skilled,3 or More,Yes,No
+944,0,No Account,12,Paid Up,Furniture,709,None,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,None,57,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+945,0,None,15,Other Credits,Other,6850,Below 100 DM,Unemployed,Above 35%,"Male, Married/Widowed",None,"[1, 4)",Car,34,Dept. Store,Rented,1,Executive,Less than 3,Yes,No
+946,0,200 DM or Above,10,Paid Up,Used Car,2210,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",None,25,None,Free,1,Unskilled Permanent Resident,3 or More,No,No
+947,0,200 DM or Above,30,Other Credits,New Car,7485,Above 1000,Unemployed,Below 20%,"Male, Single",None,<1 Year,None,53,Other Banks,Rented,1,Executive,3 or More,Yes,No
+948,0,No Account,18,Other Credits,Other,1442,None,"[4, 7)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,32,Other Banks,Owned,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+949,0,200 DM or Above,12,Previous Credits Paid,Furniture,797,Above 1000,Above 7,Below 20%,"Male, Single",None,"[4, 7)",Car,33,None,Rented,1,Unskilled Permanent Resident,Less than 3,No,No
+950,0,None,45,Previous Credits Paid,Furniture,4746,None,<1 Year,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,24,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+951,0,Below 200 DM,12,Previous Credits Paid,Other,939,"[100, 500)","[4, 7)",Below 20%,Female,None,"[1, 4)",None,28,None,Rented,4 or 5,Skilled,3 or More,Yes,No
+952,0,None,21,Paid Up,Retraining,1188,None,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Car,39,None,Rented,1,Skilled,Less than 3,No,No
+953,0,200 DM or Above,48,Previous Credits Paid,New Car,11590,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Single",None,Above 7,Life Insurance,24,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+954,0,Below 200 DM,12,Other Credits,Retraining,609,None,<1 Year,Below 20%,"Male, Single",None,<1 Year,None,26,Other Banks,Rented,1,"Unemployed, unskilled",3 or More,No,No
+955,0,No Account,18,Previous Credits Paid,Appliances,1190,None,Unemployed,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,55,None,Owned,4 or 5,"Unemployed, unskilled",Less than 3,No,No
+956,0,None,21,Paid Up,Retraining,2767,Below 100 DM,Above 7,Below 20%,"Male, Divorced",None,"[1, 4)",Life Insurance,61,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+957,0,None,30,Paid Up,Used Car,3441,Below 100 DM,"[1, 4)","(25%, 35%)","Male, Single",Co-applicant,Above 7,Life Insurance,21,Other Banks,Free,1,Skilled,3 or More,No,No
+958,0,None,30,Delayed,Retraining,4280,Below 100 DM,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,26,None,Free,2 or 3,Unskilled Permanent Resident,3 or More,No,No
+959,0,None,24,Paid Up,Furniture,3092,Below 100 DM,<1 Year,"[20%, 25%)",Female,None,"[1, 4)",Life Insurance,22,None,Free,1,Skilled,3 or More,Yes,No
+960,0,200 DM or Above,18,Paid Up,Other,6761,Above 1000,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,68,Dept. Store,Free,2 or 3,Skilled,3 or More,No,No
+961,0,None,12,Paid Up,Furniture,1331,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Life Insurance,22,None,Rented,1,Skilled,3 or More,No,No
+962,0,None,54,Delayed,Retraining,15945,None,<1 Year,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,58,None,Free,1,Skilled,3 or More,Yes,No
+963,0,No Account,24,Paid Up,Used Car,3234,None,<1 Year,Below 20%,"Male, Single",None,Above 7,None,23,None,Free,1,Unskilled Permanent Resident,3 or More,Yes,No
+964,0,None,15,Paid Up,Furniture,802,None,Above 7,Below 20%,"Male, Married/Widowed",None,"[4, 7)",Life Insurance,37,None,Rented,1,Skilled,Less than 3,No,No
+965,0,None,48,Paid Up,Used Car,9960,None,<1 Year,Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,26,Other Banks,Rented,1,Skilled,3 or More,Yes,No
+966,0,200 DM or Above,24,No Problem with Current Credits,Retraining,8648,None,<1 Year,"(25%, 35%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,27,Other Banks,Rented,2 or 3,Skilled,3 or More,Yes,No
+967,0,No Account,18,Paid Up,Furniture,1345,None,"[1, 4)",Below 20%,Female,None,"[4, 7)",None,26,None,Rented,1,Skilled,3 or More,No,No
+968,0,No Account,45,Paid Up,Furniture,1845,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,23,None,Owned,1,Skilled,3 or More,Yes,No
+969,0,No Account,21,Other Credits,Other,1647,Above 1000,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,40,Other Banks,Rented,2 or 3,Unskilled Permanent Resident,Less than 3,No,No
+970,0,200 DM or Above,48,Paid Up,Retraining,4844,None,Unemployed,"[20%, 25%)","Male, Married/Widowed",None,"[1, 4)",Life Insurance,33,None,Free,1,Executive,3 or More,Yes,No
+971,0,None,27,Delayed,Retraining,8318,None,Above 7,"(25%, 35%)","Male, Single",None,Above 7,Real Estate,42,Dept. Store,Owned,2 or 3,Executive,3 or More,Yes,No
+972,0,Below 200 DM,18,Paid Up,Furniture,2100,None,"[1, 4)",Below 20%,"Male, Married/Widowed",Co-applicant,"[1, 4)",None,37,None,Rented,1,Skilled,3 or More,No,No
+973,0,No Account,45,Delayed,Retraining,11816,None,Above 7,"(25%, 35%)","Male, Married/Widowed",None,Above 7,Life Insurance,29,None,Free,2 or 3,Skilled,3 or More,No,No
+974,0,No Account,6,Paid Up,Repair,448,None,<1 Year,Below 20%,"Male, Single",None,Above 7,Car,23,None,Rented,1,Skilled,3 or More,No,No
+975,0,No Account,30,Paid Up,Appliances,11998,None,<1 Year,Above 35%,"Male, Divorced",None,<1 Year,Real Estate,34,Other Banks,Rented,1,Unskilled Permanent Resident,3 or More,Yes,No
+976,0,None,48,Delayed,Business,18424,None,"[1, 4)",Above 35%,"Male, Single",None,"[1, 4)",Car,32,Other Banks,Rented,1,Executive,3 or More,Yes,Yes
+977,0,No Account,6,Paid Up,Other,14896,None,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Real Estate,68,Other Banks,Rented,1,Executive,3 or More,Yes,No
+978,0,None,12,Paid Up,Used Car,2762,Above 1000,Above 7,Above 35%,"Male, Single",None,"[1, 4)",Car,25,None,Rented,1,Skilled,3 or More,Yes,No
+979,0,No Account,12,Paid Up,New Car,3386,None,Above 7,"[20%, 25%)","Male, Married/Widowed",None,Above 7,Real Estate,35,None,Owned,1,Skilled,3 or More,Yes,No
+980,0,None,24,Paid Up,Furniture,2039,None,<1 Year,Above 35%,Female,None,<1 Year,Car,22,None,Rented,1,Skilled,3 or More,Yes,No
+981,0,200 DM or Above,18,No Problem with Current Credits,Retraining,2169,None,"[1, 4)",Below 20%,Female,None,"[1, 4)",Life Insurance,28,None,Rented,1,Skilled,3 or More,Yes,No
+982,0,None,48,Previous Credits Paid,Used Car,5096,None,"[1, 4)","(25%, 35%)","Male, Single",None,"[4, 7)",Life Insurance,30,None,Rented,1,Executive,3 or More,Yes,No
+983,0,No Account,18,Paid Up,Furniture,1882,None,"[1, 4)",Below 20%,"Male, Single",None,Above 7,Life Insurance,25,Other Banks,Free,2 or 3,Skilled,3 or More,No,No
+984,0,No Account,48,Paid Up,Furniture,6999,None,"[4, 7)",Above 35%,Female,Guarantor,<1 Year,None,34,None,Rented,2 or 3,Skilled,3 or More,Yes,No
+985,0,200 DM or Above,12,Previous Credits Paid,Retraining,2292,None,Unemployed,Below 20%,"Male, Married/Widowed",None,"[1, 4)",Life Insurance,42,Dept. Store,Rented,2 or 3,Executive,3 or More,Yes,No
+986,0,No Account,14,Paid Up,Other,8978,None,Above 7,Above 35%,"Male, Divorced",None,Above 7,Car,45,None,Rented,1,Executive,3 or More,Yes,Yes
+987,0,No Account,12,Paid Up,Furniture,674,Below 100 DM,"[4, 7)",Below 20%,Female,None,<1 Year,Car,20,None,Rented,1,Skilled,3 or More,No,No
+988,0,No Account,18,Paid Up,Other,976,None,<1 Year,Above 35%,"Male, Single",None,"[1, 4)",Life Insurance,23,None,Rented,1,Unskilled Permanent Resident,3 or More,No,No
+989,0,None,24,Paid Up,Other,2718,None,"[1, 4)","[20%, 25%)","Male, Single",None,Above 7,Car,20,None,Free,1,Unskilled Permanent Resident,3 or More,Yes,No
+990,0,No Account,18,Paid Up,Repair,750,None,Unemployed,Below 20%,"Male, Single",None,<1 Year,None,27,None,Rented,1,"Unemployed, unskilled",3 or More,No,No
+991,0,None,24,Paid Up,New Car,12579,None,Above 7,Below 20%,"Male, Single",None,"[1, 4)",Real Estate,44,None,Owned,1,Executive,3 or More,Yes,No
+992,0,No Account,18,Paid Up,New Car,7511,Above 1000,Above 7,Above 35%,"Male, Married/Widowed",None,Above 7,Car,51,None,Owned,1,Skilled,Less than 3,Yes,No
+993,0,No Account,18,Previous Credits Paid,Other,3966,None,Above 7,Above 35%,"Male, Single",None,Above 7,None,33,Other Banks,Free,4 or 5,Skilled,3 or More,Yes,No
+994,0,No Account,12,Delayed,Furniture,6199,None,"[1, 4)",Below 20%,"Male, Married/Widowed",None,"[1, 4)",Car,28,None,Free,2 or 3,Skilled,3 or More,Yes,No
+995,0,No Account,24,Paid Up,Furniture,1987,None,"[1, 4)","(25%, 35%)","Male, Married/Widowed",None,Above 7,None,21,None,Free,1,Unskilled Permanent Resident,Less than 3,No,No
+996,0,No Account,24,Paid Up,Other,2303,None,Above 7,Below 20%,"Male, Married/Widowed",Co-applicant,<1 Year,None,45,None,Rented,1,Skilled,3 or More,No,No
+997,0,200 DM or Above,21,Previous Credits Paid,Other,12680,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Real Estate,30,None,Owned,1,Executive,3 or More,Yes,No
+998,0,None,12,Paid Up,Furniture,6468,Above 1000,Unemployed,"(25%, 35%)","Male, Married/Widowed",None,<1 Year,Real Estate,52,None,Rented,1,Executive,3 or More,Yes,No
+999,0,No Account,30,Paid Up,Used Car,6350,Above 1000,Above 7,Below 20%,"Male, Married/Widowed",None,Above 7,Car,31,None,Rented,1,Skilled,3 or More,No,No
